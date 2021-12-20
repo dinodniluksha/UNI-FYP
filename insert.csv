@@ -1,0 +1,16 @@
+Id,Title,Body,Tags
+34588464,Python: how to capture image from webcam on click using OpenCV,"<p>I want to capture and save a number of images from my webcam using OpenCV. This is my code currently:</p>
+
+<pre><code>import cv2
+
+camera = cv2.VideoCapture(0)
+for i in range(10):
+    return_value, image = camera.read()
+    cv2.imwrite('opencv'+str(i)+'.png', image)
+del(camera)
+</code></pre>
+
+<p>The problem with this is that I do not know when the images are being taken, so a lot of them end up blurry. My question is: <strong>Is there a way to have the image taken on the click of a keyboard key?</strong> </p>
+
+<p>Also is there a better way to take multiple images, instead of range?</p>
+",<python><python-2.7><opencv>
