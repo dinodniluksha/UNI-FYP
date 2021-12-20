@@ -1,0 +1,4198 @@
+Letter,Abbreviation,Definition
+A,A," Ampere
+ Anchor"
+A,A/N/K,"alphabetic, numeric,  katakana"
+A,A2A,application-to-application
+A,AA,automated attendant
+A,AAA,"authentication, authorization, and accounting"
+A,AAB,All-to-all broadcast
+A,AAC," Advanced Audio Coding
+ ATM access concentrator"
+A,AAL,ATM adaptation layer
+A,AARP,AppleTalk Address Resolution Protocol 
+A,AAS,Auto Area Segmentation
+A,AAT,Average Access Time
+A,AAUI,Apple Attachment Unit Interface
+A,ABAP,Advanced Business Application Programming
+A,ABC," activity-based costing
+ Atanasoff-Berry Computer"
+A,ABEND," abnormal end
+ Absent By Enforced Net Deprivation"
+A,ABI,application binary interface
+A,ABLE,Agent Building and Learning Environment
+A,ABM,activity-based management
+A,ABME,asynchronous balanced mode extended
+A,ABR,available bit rate
+A,ACA,Australian Communications Authority
+A,ACAP,Application Configuration Access Protocol
+A,ACC, Adaptive Cruise ControlAuthorization Contract for Containers
+A,ACCU, Association of C and C++ Users
+A,ACD," Automatic Call Delivery
+ automatic  call distributor or distribution"
+A,ACDI,Asynchronous Communications Device Interface
+A,ACE," access control entry 
+ Adobe Certified Expert 
+ Advanced CMOS-ECL
+ Agile Communication Environment"
+A,ACEE,access control environment element
+A,ACF,Advanced Communications Function
+A,ACF2,Access Control Facility 2
+A,ACG,adaptive code generation
+A,ACH,automated clearinghouse
+A,ACI,access control information 
+A,ACID,"atomicity, consistency, isolation, durability"
+A,ACK,acknowledgement 
+A,ACL," Access control list
+ application connectivity link
+ Asianet Communications Limited
+ Asynchronous Connectionless                                                         Link"
+A,ACM,Association for Computing MachineryAddress Complete Message
+A,ACMS,Application Control and Management System
+A,ACP,array control processor
+A,ACPI,Advanced Configuration and Power Interface
+A,ACR," Allowed Cell Rate
+ attenuation-to-crosstalk ratio"
+A,ACRI,additional coding-related required information
+A,ACROSS,Automated Cargo Release and Operations Service System
+A,ACS,"Affiliated Computer Services, Inc"
+A,ACSE,Association Control Service Element
+A,ACSLS,Automated Cartridge System Library Software
+A,ACT,access control template
+A,ACU,abstract code unit 
+A,AD," Active Directory
+ Administrative Domain"
+A,ADAPT,"Architecture, Design, Analysis and Planning Tool"
+A,ADB,Apple Desktop Bus
+A,ADC," Advanced Direct Connect
+ Analog to Digital Converter
+ automated data collection"
+A,ADCCP,Advanced Data Communications Control Procedures
+A,ADDM," Application Discovery and Dependency 
+          Mapping
+ Automatic Database Diagnostic Monitor "
+A,ADE," Application Data Export
+ application development environment"
+A,ADF," Activity Decision Flow
+ Application Development Facility
+ automatic document feeder"
+A,ADI," Analog Devices, Inc.
+ Application Desktop Integrator"
+A,ADK,Additional Decryption Key
+A,ADL,Advanced Distributed Learning
+A,ADM," Agile development management
+ Application 
+          Development Manager "
+A,ADMD,Administration Management Domain or Administrative Management Domain
+A,ADMF,Asynchronous Data Mover Facility
+A,ADN,"Advanced Digital Network
+application delivery networking "
+A,ADO,ActiveX Data Objects
+A,ADP,Accidental Damage Protection
+A,ADPCM,adaptive differential pulse code modulation
+A,ADS," Active Directory Service
+ Asynchrous Data Switching"
+A,ADSI," Active Directory Services Interface
+ Analog Display Services Interface"
+A,ADSL,Asynchrous Data Switching Line
+A,ADSM,ADSTAR Distributed Storage Manager
+A,ADSR,"Attack, Decay, Sustain, Release"
+A,ADSTAR,Automated Document Storage and Retrieval
+A,ADT," Abstract Data Type
+ admission, discharge and transfer
+ application deployment template"
+A,ADTG,Advanced Data Table Gram
+A,ADUC,Active Directory Users and Computers
+A,AEC,"Architecture, Engineering, Construction"
+A,AES,Advanced Encryption Standard
+A,AF," Assured Forwarding
+ audio frequency"
+A,AFC,antiferromagnetically coupled
+A,AFI,Authority and Format Identifier
+A,AFIS,Automated Fingerprint Identification System
+A,AFK,Away From Keyboard
+A,AFL,Academic Free License
+A,AFM,Atomic Force Microscope 
+A,AFP," Advanced Function Printing
+ Apple Filing Protocol"
+A,AGC,Automatic Gain Control
+A,AGP,Accelerated Graphics Port
+A,AHCI,Advanced Host Controller Interface
+A,AHP,analytical hierarchy process
+A,AI," Action Indicator Adobe Illustrator
+ artificial intelligence "
+A,AIA,Application Integration Architecture 
+A,AID,attention identifier
+A,AIM,AOL Instant Messenger
+A,AIN,Advanced Intelligent Network
+A,AIO,all in one 
+A,AIOD,Automatic Identified Outward Dialing
+A,AIP,"Advanced Inspection and 
+          Prevention "
+A,AIR,Additive Increase Rate
+A,AIT,Advanced Intelligent Tape
+A,AIX,Advanced Interactive Executive
+A,AJP,Apache JServ Protocol
+A,AL PA,Arbitrated Loop Physical Address
+A,ALET,access list entry token
+A,ALG,Application Layer Gateway
+A,ALGOL,ALGOrithmic Language
+A,ALI,Application layer  interface
+A,ALM," Application Life Cycle Management 
+ Asset 
+              Lifecycle Management
+ Asynchronous Line Multiplexer"
+A,ALP,Application Layer Program / Protocol
+A,ALSA,Advanced Linux Sound Architecture
+A,ALT,alternative
+A,ALU," Alcatel-Lucent 
+ arithmetic logic unit"
+A,AM,Amplitude Modulation
+A,AMA,automatic message accounting
+A,AMD," Active Matrix Display
+ Advanced Microchip Devices
+ architected model-driven"
+A,AME,Advanced Metal Evaporated
+A,AMI,"  advanced metering 
+          infrastructure
+ Alternate Mark Inversion
+ Application Messaging Interface "
+A,AML," Anti-Money-Laundering 
+ Astronomical Markup Language"
+A,AMMA,Advanced Memory Management Architecture
+A,AMP," ampere (A)
+ amplifier
+ Asymmetric Multi-Processing"
+A,AMPS,Advanced Mobile Phone System
+A,AMR," Audio Modem Riser
+ Automatic meter reading"
+A,AMRF,Action Message Retention Facility
+A,AMS,"access method services
+Analog/Mixed-Signal
+ Application Management Services"
+A,AMT," Active Management Technology
+ address mapping table "
+A,AMTA,American Mobile Telecommunications Association
+A,ANDF,Architecture-Neutral                                                         Distribution Format
+A,ANI,Automatic Number Identification
+A,ANOVA,analysis of variance
+A,ANR,automatic network routing
+A,ANSI,American National  Standards  Institute
+A,ANX,Automotive Network Exchange
+A,AOA,angle of arrival
+A,AOCE, Apple Open Collaboration Environment
+A,AOF,"  Advanced Open File
+ application object file"
+A,AOL," America Online
+ Application Object Library"
+A,AOR,Address of Record
+A,AP,access point
+A,APA,all-points addressable 
+A,APACS,Association for Payment Clearing Services
+A,APC," asynchronous procedure call
+ American Power Conversion
+ Antenna Phase Center"
+A,APDU,application-layer protocol data unit 
+A,APF,Automated Purposing Framework
+A,API,"Application Programming InterfaceAdvanced Photonix, Inc"
+A,APM," Active policy management
+ Advanced Power Management
+ application 
+            performance management "
+A,APML,Attention Profiling Markup Language
+A,APNIC,Asia Pacific Network Information Center
+A,APO,Advanced Planner and Optimizer
+A,APOP,Authenticated Post Office Protocol
+A,APOT,Alternate (Additional) Point of Termination
+A,APPC,Advanced Program-to-Program Communication
+A,APPN,Advanced Peer to Peer Networking
+A,APR,Apache Portable Runtime
+A,APS," advanced planning and scheduling
+ Automatic Protection Switching"
+A,APWG,Anti-Phishing Working Group 
+A,APaRT,automated packet recognition/translation
+A,APaaS,"application platform as a 
+          service"
+A,AQCB,Automated Quote Contract Billing
+A,AR," Access Rate
+ Augmented reality"
+A,ARA,Apple Remote Access
+A,ARAD,architected rapid application development 
+A,ARAG,AntiReflection AntiGlare
+A,ARC,Ames Research CenterArchive
+A,ARCNET,Attached Resource Computer NETwork
+A,ARD,Automatic Ring Down
+A,ARIA,Accessible Rich Internet Applications 
+A,ARIN,American Registry for Internet Numbers 
+A,ARL,ABLE Rule Language 
+A,ARM,"Advanced RISC MachinesAsynchronous Response ModeActive Registry Monitor
+"
+A,ARP,Address Resolution Protocol
+A,ARPANET,Advance Research Projects Agency Network
+A,ARQ,automatic repeat request
+A,ARS," Action Request System
+ automatic route selection"
+A,ART,Additional Reference Transmission
+A,ARTS,Association for Retail Technology Standards
+A,ARu,audio response unit 
+A,AS,Activesync
+A,AS/400,Application System/400
+A,AS2,Applicability Statement 2
+A,ASA,average speed of answer
+A,ASBR,Autonomous System Boundary Router
+A,ASC,Abstract Syntax Checker 
+A,ASCII,American Standard Code for Information Interchange
+A,ASCL,Asianet Satellite Communications Limited 
+A,ASE," Adaptive Server Enterprise
+ application service element"
+A,ASF," Advanced Streaming Format
+ Automatic Sheet Feeder"
+A,ASIC,Application-Specific Integrated Circuit
+A,ASIF,access security information field
+A,ASIS,access security information subfield
+A,ASK,Anomalous State of Knowledge
+A,ASLR,Address Space Layout Randomization
+A,ASLS,Analog Single Line Station
+A,ASM," Auto-sequencing memory
+ Automatic Storage Management"
+A,ASML,originally  ASM Lithography (ASM for Advanced Semiconductor Materials)
+A,ASN,Abstract Syntax Notation
+A,ASN.1,Abstract Syntax Notation One
+A,ASO,Address Supporting Organization
+A,ASP,"  Abstract Service Primitive
+  Active Server Pages 
+  Application Server Process
+  Application Service Provider
+  Aspect Oriented Programming
+ Average Selling Price "
+A,ASPI,Advanced SCSI Programming Interface
+A,ASPX,Active Server Pages eXtended
+A,ASQ,Automated Software                                                         Quality
+A,ASR,"  Automatic Send and Receive
+  automatic speech recognition
+ Automated system recovery "
+A,ASV,Approved Scanning Vendor
+A,AT,Advanced Technology
+A,AT&T,American Telephone And Telegraph
+A,ATA,"  Actual Time of Arrival
+ Advanced Technology Attachment
+ Analog Telephone Adaptor"
+A,ATAG,Authoring Tool Accessibility Guidelines
+A,ATAPI,AT Attachment Packet Interface
+A,ATB,all trunks busy
+A,ATCA,Advanced Telecom Computing Architecture
+A,ATG," advanced technology group
+ Art Technology Group"
+A,ATI, Allied Telesyn International
+A,ATL," Active Template Library
+ automated tape library"
+A,ATLAS,Authorization Token Layer Acquisition Service
+A,ATM," Adobe Type Manager
+ asynchronous  transfer mode
+ automated teller machine"
+A,ATO,assemble to order
+A,ATP," AppleTalk Transaction Protocol
+ available to promise"
+A,ATPCO,Airline Tariff Publishing Company
+A,ATRAC,Adaptive TRansform Acoustic Coding
+A,ATRN,Authenticated Turn
+A,ATS,Abstract Test SuiteApplications Technology SatelliteAir to Surface
+A,ATSC,Advanced Television Systems Committee
+A,ATTIS,AT&T Information Systems
+A,ATU-C,X
+A,ATU-R,X
+A,ATUL,ADSL Termination Unit Remote
+A,ATVEF,Advanced TV Enhancement Forum
+A,ATX,Advanced Technology eXtended 
+A,AUDIT,AUtomated Data Input Terminal
+A,AUI,Attachment Unit Interface
+A,AUIML,Abstract User Interface Markup Language 
+A,AUP,acceptable use policy
+A,AUTOEXEC,Automatic Execution
+A,AUTONEG,Autonegotiation
+A,AUV,Autonomous Underwater Vehicle 
+A,AUX,auxiliary device
+A,AV," Anti Virus
+ Audio Video or Visual"
+A,AVD,alternate voice data 
+A,AVED,AntiVirus Emergency Discussion list
+A,AVI,Audio/Video Interleaved
+A,AVK,Application Verification Kit
+A,AVS,Application Visualisation                                                         System
+A,AVST,Applied Voice & Speech Technologies Inc.
+A,AVVID,"Architecture for Voice, Video and Integrated Data"
+A,AWD,Access Workflow Designer
+A,AWE, Advanced WavEffects
+A,AWS,"   Advanced Wireless Services
+ Amazon Web Services
+  Autonomous Web Services
+"
+A,AWT,Abstract Window Toolkit
+A,Ajax,Asynchronous JavaScript and XML
+A,Amanda,(formerly) Advanced Maryland Automatic Network Disk Archiver
+A,Anon FTP,Anonymous FTP
+A,AoE,Ata Over Ethernet
+A,Atom,"  Any Transport over MPLS
+ Atom"
+A,a11y,accessibility
+A,admin,ADMINISTRATOR
+A,aii,afg ihkj idx
+A,ami,"Analyze, Metricate, Improve"
+A,app,application 
+B,B,byte
+B,B channel,Bearer Channel
+B,B-HAVW, Behavioral Heuristic Analyzer in Virtual Environments
+B,B-LLI,Broadband Low Layer Information
+B,B2B,business-to-business
+B,B2C,business-to-consumer
+B,B2E,business-to-employee
+B,B8ZS,Binary Eight Zero Suppression.
+B,BAA,Blanket Authorization Agreement
+B,BAC,BroadCast Agent
+B,BACNET,Building Automation and Control Network protocol
+B,BAF,Bellcore AMA                           Format 
+B,BAI,Bank Administration Institute
+B,BAM,business activity monitoring
+B,BAN,Body Area Networks
+B,BAPI,Business Application Programming Interface
+B,BASH,Bourne-Again SHell 
+B,BASIC,Beginners' All-purpose Symbolic Instruction Code
+B,BAT," Baby Advanced Technology
+ batch
+ Baidu, Alibaba, Tencent"
+B,BBC,"British Broadcasting Corporation
+Broadband Bearer Capability"
+B,BBCs,buffer-to-buffer credits 
+B,BBN," Bolt, Beranek and Newman"
+B,BBP,Business-to-Business Procurement
+B,BBS,Bulletin Board System
+B,BC4J,Business Components For Java
+B,BCB,buffer control block
+B,BCC,Block Check Character
+B,BCD,binary-coded decimal
+B,BCE,Bell Canada Enterprises;
+B,BCEL,Byte Code Engineering Library
+B,BCI,Business Continuity Institute
+B,BCM,X
+B,BCMP,X
+B,BCOCA,Bar Code Object Content Architecture 
+B,BCP," Best Current Practice
+ Bulk Copy Program
+ business continuity planning"
+B,BCS,basic content services
+B,BCUG,bilateral closed user group
+B,BCV,business continuance volume
+B,BCX,Basic To C Translator
+B,BD, Blu-ray Disc
+B,BDC,Backup Domain Controller
+B,BDF,building distribution frame
+B,BECN,Backward Explicit Congestion Notification
+B,BEEP,Blocks Extensible Exchange Protocol
+B,BER," Basic Encoding Rules
+ bit error rate"
+B,BERT,Bit Error Rate Test
+B,BES,BlackBerry Enterprise Server
+B,BFR,Bona Fide Request
+B,BFT,Binary File Transfer
+B,BGA,ball grid array
+B,BGAN,Broadband Global Area Network
+B,BGI,Binary Gateway Interface
+B,BGP,Border Gateway Protocol
+B,BGP-4,Border Gateway Protocol-4
+B,BHCA,busy hour call attempt
+B,BHCC,busy hour call completion
+B,BHLI,Broadband High Layer Information
+B,BHMC,Busy Hour Minutes of Capacity
+B,BHO,Browser Help Object
+B,BI,business intelligence
+B,BIA,business impact analysis
+B,BIBOP,big bag of pages
+B,BIC,bank identifier code
+B,BICI,Broadband Inter-Carrier Interface
+B,BIDS,Business Intelligence Development Studio
+B,BIOD,block input/output daemon 
+B,BIOS,Basic Input/Output System
+B,BIP,Bit Interleaved Parity
+B,BIPS,Bank Internet Payment System
+B,BIRT,Business Intelligence and Reporting Tools
+B,BIST,built-in self test
+B,BISUP,Broadband ISDN User's Part
+B,BIT7,Bit Seven
+B,BITNET,Because It's Time Networking 
+B,BITS,"  Background Intelligent Transfer Service
+  Banking Industry Technology Secretariat
+ Bump-In-The-Stack "
+B,BITW,Bump-In-The-Wire
+B,BIW,Business Information Warehouse
+B,BL,BLade Server
+B,BLAST, Basic Local Alignment Search Tool
+B,BLISS,Broadband Local Integrated Services Solution
+B,BLOB,binary large object
+B,BLS,Basic Link Service
+B,BMRT,Blue Moon Rendering Tools
+B,BMT,Biel Mean Time
+B,BNC,Bayone-Neill-Concelman / British Naval Connector
+B,BNF,Backus-Naur Form
+B,BNI,Broadband Network Interface
+B,BNOS,Brocade Network OS 
+B,BO,X
+B,BOA,Basic Object Adapter
+B,BOB,"  Breakout Box
+  Business Object Broker"
+B,BOBJ,X
+B,BOC,Bell operating company
+B,BOCU-1,Binary Ordered               Compression for Unicode
+B,BOD,Business Object Document
+B,BOL,Books Online
+B,BOM," Beginning of Message
+  bill of materials
+  Byte Order Mark"
+B,BONDING,Bandwidth on Demand Inter-Operability Group
+B,BOOTP,Bootstrap Protocol
+B,BOPS,Billions of Processes Per Second
+B,BOT,"  beginning of tape
+ build-operate-transfer "
+B,BPA," Business Process Analysis
+ business process automation"
+B,BPC,Business Planning and Consolidation
+B,BPDM,Business Process Definition Metamodel
+B,BPDU,Bridge Protocol Data Unit
+B,BPEL,Business Process Execution Language
+B,BPEL4WS ,Business Process Execution Language for Web Services
+B,BPL,broadband over power lines
+B,BPM,business process management
+B,BPON,Broadband Passive Optical Network
+B,BPOS,Business Productivity Online Standard Suite
+B,BPP," Bluetooth Basic Printing
+ Bridge Port Pair
+ business process platform"
+B,BPPM,BMC ProactiveNet Performance Management 
+B,BPV,BiPolar Violation
+B,BRA,Basic Rate Access
+B,BRAN,Broadband Radio Access Networks 
+B,BRAS,Broadband Remote Access Server
+B,BRE,Business rule engines
+B,BREW,"Binary Runtime Environment 
+          for Wireless"
+B,BRF,Benchmark Report Format
+B,BRI,Basic Rate Interface
+B,BROUTER,Bridge-Router
+B,BRR,Business Readiness Rating
+B,BRZ,Bipolar Return to Zero
+B,BS 7799,British Standard 7799
+B,BSA,Business Software Alliance
+B,BSC," Balance Score Card
+ binary synchronous communication"
+B,BSC ,X
+B,BSD,Berkeley Software Distribution
+B,BSDI,"Berkeley Software Design, Inc."
+B,BSE,Basic Service Elements
+B,BSM,Business Service Management
+B,BSNL,Bharat Sanchar Nigam Limited
+B,BSP,board support package
+B,BSS," Base Station System
+ Broadband Switching System
+ business support system"
+B,BSSID, basic service set identifier
+B,BST,binary search tree
+B,BSoD,Blue Screen of Death
+B,BT," BitTorrent
+ British Telecom
+ bluetooth"
+B,BTAG,Beginning Tag
+B,BTAM,Basic Telecommunications Access Method
+B,BTM," Benchmark Timing Methodology
+ business transaction monitoring"
+B,BTO,Business technology optimization
+B,BTS,Bits Per Second
+B,BTW,By The Way
+B,BTX,Balanced Technology eXtended
+B,BUS,Broadcast and Unknown                                                   Server
+B,BVD,Basic Virtual Disk
+B,BW,bandwidth
+B,BYOD,bring your own device
+B,Basel II,Basel Capital Accord
+B,Bcc,Blind Carbon Copy
+B,Bellcore,Bell Communications Research
+B,BiDi,Bi-Directional
+B,Bin,binary
+B,Binhex,BINary HEXadecimal
+B,Bisync,X
+B,Bit,Binary DigIT
+B,Blog,X
+B,BloggerBLOG,X
+B,BoD,Bandwidth on Demand 
+B,b,bit
+B,bar file,broker archive file
+B,boot,bootstrap
+B,bot,X
+B,botnet,X
+B,bpi,bits per inch
+B,bps,Bits Per Second
+C,C&SI,consulting and system integration
+C,C++,C Plus Plus
+C,C-GREX, Chaos Game Representation Explorer
+C,C/kT,carrier-to-receiver noise density
+C,C2A,Click-to-Action
+C,C4S,"command, control, communications, and computer systems"
+C,C64/128,Commodore 64/128
+C,CA," Certificate Authority 
+ Computer Associates (formerly)"
+C,CAC," Call Admission Control 
+ Carrier Access Code
+ Connection Admission                                                   Control"
+C,CAD,Computer-Aided Design
+C,CAI,Common Air Interface
+C,CAL,Client Access License
+C,CALEA,Communications Assistance for Law Enforcement Act
+C,CAM," Capital Asset Management
+ channel access method
+ computer-aided manufacturing"
+C,CAMA,centralized automatic message accounting
+C,CAMEL,Customized                                                 Application for Mobile networks                                                 Enhanced Logic
+C,CAN," Campus Area Network
+ cancel character
+ Controllerâarea network"
+C,CAN-SPAM,"Controlling the Assault of Non-Solicited Pornography and
+          Marketing"
+C,CAP,carrierless amplitude phase modulation
+C,CAPA,CA Productivity Accelerator
+C,CAPE,concurrent art-to-product environment
+C,CAPI," Common Application Programming interface
+ Computer Assisted Personal Interviewing
+  Computer Assisted Programming Interface"
+C,CAPTCHA ,Completely Automated Public Turing Test to tell Computers and Humans Apart
+C,CAR,committed access rate
+C,CARE,Customer Account Record Exchange
+C,CAROT,Centralized Automatic Reporting on Trunks
+C,CARP,Common Address Redundancy Protocol
+C,CART,command and response token
+C,CAS," centralized attendant services
+ channel associated signaling
+ Column Address Strobe 
+ computer algebra system 
+ Common Analysis Structure
+ Content-Addressed Storage"
+C,CASE,computer-aided software engineering
+C,CAT," Communications Authority of Thailand
+ Computer-Assisted Translation"
+C,CAT n ,Category n 
+C,CATI,computer-aided telephone interviewing
+C,CATIA,Computer Aided Three-dimensional Interactive Application
+C,CATP,Caffeine Access Transport Protocol
+C,CATS,Calling Card & Third Number Settlement
+C,CATV,community antenna television (or Cable TV system)
+C,CAV,Constant Angular Velocity
+C,CBC,cipher block chaining
+C,CBL,Composite Blocking List
+C,CBN,common bonding network
+C,CBP,"Certifed Biometrics 
+          Professional"
+C,CBQ,Class-Based Queuing
+C,CBR," constant bit rate
+ content based routing "
+C,CBT,Computer Based Training
+C,CBWFQ,Class-Based Weighted Fair Queueing
+C,CC,closed captioning
+C,CCA,Citrix Certified Administrator
+C,CCAs,composite content applications 
+C,CCC,Clear Channel Capability
+C,CCD,Charge Coupled Device
+C,CCD+,Cash Concentration and Disbursement plus addenda
+C,CCF,call control function
+C,CCH,connections per circuit hour
+C,CCHIT,Certification Commission for Health Information Technology
+C,CCI,controlled cryptographic item
+C,CCIE,Cisco Certified Internetwork Expert
+C,CCIR,Comite Consultatif International des Radio Communications
+C,CCIS,common-channel interoffice signaling
+C,CCITT,International Telegraph and Telephone Consultative Committee
+C,CCL,Communications Control Language
+C,CCNA,Cisco Certified Network Associate
+C,CCOW,Clinical Context Object Workgroup
+C,CCP,Certified Computer Professional
+C,CCPM,Critical Chain Project Management
+C,CCR," channel command retry
+ Cluster Continuous Replication
+ Commitment, Concurrency and Recovery
+ Continuity of Care Record
+ Current Cell Rate"
+C,CCS," Centum Call Seconds
+ Coded Character Set
+ common channel signaling
+ Control Compliance Suite"
+C,CCSA,common control switching arrangement 
+C,CCSE,Checkpoint Certified Security Expert
+C,CCTV,Closed-Circuit Television
+C,CD,Compact Disc
+C,CD Table,change-data table
+C,CD-R,Compact DiscâRecordable
+C,CD-ROM,compact disc read-only memory
+C,CD-RW,Compact disc-rewritable
+C,CDB,capacity database
+C,CDC,call data channel
+C,CDDI,Copper Distributed Data Interface
+C,CDE,common desktop environment
+C,CDF," Channel Definition Format
+ combined distribution frame "
+C,CDFS,compact disc file system
+C,CDH,Customer Data Hub 
+C,CDI," client device identification
+ Customer Data Integration"
+C,CDMA,Code Division Multiple Access
+C,CDN,content-delivery network
+C,CDO,care delivery organization
+C,CDP," Cisco Discovery Protocol
+ Continuous Data Protection"
+C,CDPD,Cellular Digital Packet Data
+C,CDR," call detail recording
+ clinical data repository"
+C,CDS,Correlated Double Sampling
+C,CDT,C/C++ Development Tools
+C,CDV,Cell Delay Variation
+C,CE router,Customer edge router
+C,CEA, Consumer Electronics Association
+C,CEAP, cloud-enabled application platforms
+C,CEBP,communication-enabled business process
+C,CEF," Cisco Express Forwarding
+ Character Encoding Form"
+C,CEH,Certified Ethical Hacker
+C,CEI," Common Event Infrastructure
+ comparably efficient interconnection"
+C,CEIM,Common Enterprise Information Model 
+C,CELL/B.E.,Cell Broadband Engine
+C,CELP,code-excited linear prediction 
+C,CEM,customer experience management
+C,CEMF,Cisco Element Management Framework
+C,CEP,complex event processing
+C,CEPS,Common Electronic Purse Standard
+C,CER,Corporate Error Reporting
+C,CERN,Conseil Europeen pour la Recherche Nucleaire
+C,CERT,Computer Emergency Response Team
+C,CES,"Character Encoding Scheme
+Consumer Electronics Show"
+C,CESID,caller's emergency service identification
+C,CEVA,content-enabled vertical application 
+C,CF,Compact Flash 
+C,CFA," Circuit Facility Assignment
+ Color Filter Array"
+C,CFB,Ciphertext feedback 
+C,CFM," Code Fragment Manager
+ Cubic Feet per Minute"
+C,CFMN,Client For Microsoft Networks
+C,CFV,Call For Votes
+C,CG,Computer Graphics
+C,CGA,Colour Graphics Adaptor
+C,CGI," Common Gateway Interface
+ Conseillers en Gestion et Informatique (french)"
+C,CGM,Consumer-generated media
+C,CGMP,Cisco Group Multicast Protocol
+C,CHAP,Challenge Handshake Authentication Protocol
+C,CHIPS,Clearing House Interbank Payments System
+C,CIA,"confidentiality, integrity, and availability"
+C,CIC," circuit identification code
+ Cisco Info Center
+  Customer Interaction Center"
+C,CICS,Customer Information Control System
+C,CIDR,Classless Internet Domain Routing
+C,CIE,Commission Internationale de l'Eclairage
+C,CIFS,Common Internet File System
+C,CIK,crypto-ignition key
+C,CIM,"Common Information Model 
+Corporate Information Management
+ Computer Integrated Manufacturing"
+C,CINDER,Cyber Insider Threat 
+C,CIO,chief information officer
+C,CIP,Common Industrial Protocol
+C,CIPA,Childrenâs Internet Protection Act
+C,CIR,committed information rate
+C,CIS," clinical information system
+  CompuServe Information Service"
+C,CISC,Complex Instruction Set Computer
+C,CISO,chief information security officer
+C,CISSP,Certified Information Systems Security Professional
+C,CIX,Commercial Internet Exchange
+C,CJK,X
+C,CJKV,X
+C,CKD,count key data 
+C,CKO,chief knowledge officer
+C,CLA,Corporate License Agreement
+C,CLASS,Custom Local Area Signaling Services
+C,CLEC,Competitive Local Exchange Carrier
+C,CLI," Call Level Interface
+           Calling Line Identification
+ command line interface"
+C,CLIPS,C Language Integrated Production System
+C,CLLI,Common Language Location Identifier
+C,CLM,Contract lifecycle management
+C,CLNP,ConnectionLess Network Protocol
+C,CLOB,character large object 
+C,CLR," Cell Loss Ratio
+ common language runtime"
+C,CLTP,ConnectionLess Transport Protocol
+C,CLUSRCVR,cluster-receiver channel
+C,CLUSSDR,cluster-sender channel 
+C,CLUT,Color LookUp Table
+C,CLV,Constant Linear Velocity
+C,CMA,Circular Mil Area
+C,CMC,computer-mediated communication
+C,CMDB,configuration management database
+C,CME,Common Malware Enumeration 
+C,CMIP,Common Management Information Protocol
+C,CMIS," common management information service
+ Content Management Interoperability Services "
+C,CMM,Capability Maturity Model
+C,CMOS,complementary metal-oxide semiconductor
+C,CMOT,CMip Over Tcp
+C,CMRR,common-mode rejection ratio 
+C,CMRS,Commercial Mobile Radio Service
+C,CMS," Color management system
+ content management system"
+C,CMTS,cable modem termination system
+C,CNA,Converged Network Adapter
+C,CNAM,Caller ID With Name
+C,CNAME,Canonical name
+C,CNE,Certified Novell Engineer (also Certified Network Engineer)
+C,CNGI,China's Next Generation Internet
+C,CNN,"Cable News Network 
+composite network node"
+C,CNR," Carrier to Noise Ratio
+ combat-net radio"
+C,CO,central office 
+C,COAM,customer owned and maintained
+C,COBIT,Control Objectives for Information and related Technologies 
+C,COBOL,Common Business Orientated Language
+C,COCOMO,COnstructive COst MOdel
+C,COD," Call of Duty confirm on delivery
+ Connection Oriented Data"
+C,CODEC,coder/decoder or compressor-decompressor
+C,COE, Component Object modEl
+C,COEs,centers of excellence 
+C,COIN,Community Of Interest Network
+C,COLD,computer output to laserdisc
+C,COM," communications port
+ Component Object Model
+ computer output to microfiche"
+C,COMDEX, Computer Dealers Expo
+C,COMPAQ,COMPatibilty And Quality
+C,COMPARE,Compliance Progress and Readiness
+C,COMSAT,Communications Satellite Corporation 
+C,COOL,C++ Object Oriented Language
+C,COOP,Continuity of Operations Plan
+C,COPPA,Children's Online Privacy Protection Act
+C,COPS," Common Open Policy Service
+ Communications Outsourcing and Professional Services"
+C,COR,central outdoor router
+C,CORBA,Common Object Request Broker Architecture
+C,CORE,COMPARE Operational Readiness Evaluation
+C,CORS, Continuously Operating Reference Station
+C,COS,Cloud Optimized Storage
+C,COTS,commercial off-the-shelf
+C,COW,Copy-On-Write
+C,CPA,Cost Per Action 
+C,CPAN,Comprehensive Perl Archive Network
+C,CPC," Calling Party Control
+ Cost Per Click "
+C,CPE,customer premises equipment
+C,CPF,Cloud Provisioning Fabric
+C,CPLD,Complex Programmable Logic Device
+C,CPM,corporate performance management
+C,CPN,calling party number
+C,CPNI,Customer Proprietary Network Information
+C,CPOE,Computerized Provider Order Entry
+C,CPP,C Plus Plus
+C,CPRM,Content Protection for Removable Media 
+C,CPS, Continuous Protection Server 
+C,CPU,"Call Pick Up
+Central Processing Unit
+Critical Patch Update
+"
+C,CRACK,Challenge/Response Authentication of Cryptographic                   Key
+C,CRC,Cyclic Redundancy Check
+C,CRL,certificate revocation list 
+C,CRLF,"carriage return, line feed"
+C,CRM,Customer Relationship Management
+C,CRMB,Customer Reference Material  Database 
+C,CRR, Continuous	Remote	Replication
+C,CRT,Cathode Ray Tube
+C,CRUD,"Create, Read, Update, Delete"
+C,CS," Computer science
+ Creative Suite"
+C,CSA," cloud 
+          service agreements
+ Communications Streaming Architecture
+ Composite Services Architecture"
+C,CSC," card security code 
+ Circuit Switched Cellular 
+  Computer Sciences Corporation
+  Content Security and Control"
+C,CSCA,Carrier Sense Collision Avoidance
+C,CSCF, call session control function
+C,CSCW,computer supported co-operative work
+C,CSD,Cisco  Secure Desktop
+C,CSE,custom search engine
+C,CSFs,critical success factors
+C,CSG,Communications Services Group 
+C,CSMA,Carrier Sense Multiple Access
+C,CSMA/CD,Carrier Sense Multiple Access with Collision Detection
+C,CSO,"   chief sourcing officer
+ Cold Start Only"
+C,CSP," Chip-scale packaging
+ Communications service providers 
+ Crystal Server Pages"
+C,CSS,Cascading Style Sheet
+C,CSS-P,cascading style sheet positioning 
+C,CST,Consolidated Service Test
+C,CSU,"  Certificate Signing Unit
+  Channel Service Unit"
+C,CSV," Circuit Switched Voice
+ comma separated values"
+C,CSW,channel status word
+C,CT," China Telecom
+Contone "
+C,CTCp,Client-To-Client-Protocol
+C,CTD,Cell Transfer Delay
+C,CTI,computer-telephony integration
+C,CTO,chief technology officer
+C,CTP,capable to promise
+C,CTR,Click-Through Rate
+C,CTS," clear to send 
+ common transport semantics"
+C,CTT,China Tietong Telecommunications
+C,CTX,Commited to Excellence
+C,CUG,closed user group
+C,CUPS,Common Unix Printing System
+C,CUoD,Capacity Upgrade on Demand
+C,CVC,X
+C,CVC2,X
+C,CVP,Content Vectoring Protocol
+C,CVS,"  Computer Vision Syndrome
+ Concurrent Versions System "
+C,CVSD,Continuous Variable Slope Delta modulation
+C,CVV2,X
+C,CYMK,"cyan, magenta, yellow, black"
+C,CaaS,Communications as a Service 
+C,CeCILL,CEA CNRS INRIA Logiciel Libre 
+C,CfMD,Certified for Microsoft Dynamics
+C,ChR,channel reliability
+C,Charset,character set
+C,CiR,circuit reliability 
+C,CoA,Care Of Address
+C,CoDA,Context Delivery Architecture 
+C,CoS,class of service
+C,Csel,Cable Select
+C,cB,C Beautifier
+C,cHTML,Compact Hypertext Markup Language
+C,cPanel,control panel
+C,cROI,companywide ROI
+C,caps, capital letters
+C,cbr files,Comic Book Archive
+C,cc,carbon copy
+C,ccNSO,Country Code Names Supporting Organization
+C,ccTLD,country code Top-Level Domain
+C,cellphone,Cellular Telephone
+C,chat,conversational hypertext access technology
+C,coax,coaxial (cable)
+C,colo,co-location
+C,com (.com),commercial
+C,cpi,characters per inch
+C,cps,Characters Per Second
+C,crypto,Cryptography
+C,ctrl,control
+D,D channel,X
+D,D&I,Drop And Insert
+D,D2D,disk-to-disk
+D,D2D2T,disk-to-disk-to-tape
+D,DA,Destination Address
+D,DAA,Distributed Application Architecture
+D,DAB,Digital Audio Broadcast 
+D,DAC,digital-to-analog converter 
+D,DACL,X
+D,DACS,Digital Access and Cross Connect System
+D,DAE,Disk Array Enclosure
+D,DAFS,Direct Attached File System
+D,DAL,Dedicated Advertiser Location
+D,DAM,"  Database Activity Monitoring 
+ Digital Asset Management "
+D,DAMA,demand assigned multiple access
+D,DAML,DARPA Agent Markup Language
+D,DAO,Disk-At-Once
+D,DAP,Directory Access Protocol
+D,DAR,"  Data at rest
+  Disk ARchive"
+D,DARPA,Defense Advanced Research Project                   Agency 
+D,DAS,distributed antenna system
+D,DASH,Desktop and mobile Architecture for System Hardware
+D,DAST,Dynamic Application Security Testing 
+D,DAT,digital audio tape
+D,DAVID,Digital Audio Video Interactive Decoder
+D,DB,Database
+D,DB2,Database 2
+D,DB9,D sub-miniature 9
+D,DBA,database administrator
+D,DBCS,Double-Byte Character Set
+D,DBMS,Database Management System
+D,DBS,direct broadcast satellite
+D,DCAP,Data Link Switching Client Access Protocol
+D,DCB,Data Center Bridging 
+D,DCBU,D-channel backup
+D,DCC," Data Country Code
+ Digital Command Control
+ Direct Client-to-Client"
+D,DCCP,Datagram Congestion Control Protocol
+D,DCE," Data Communications Equipment
+ Distributed Computing Environment "
+D,DCO,Device Configuration Overlay
+D,DCOM,Distributed Component Object Model
+D,DCS,Desktop color separation 
+D,DCT,Digital Cordless Telephone 
+D,DDAP,Digital Distribution of Advertising for Publications
+D,DDBMS,Distributed database management system
+D,DDCMP,Digital Data Communications Message Protocol
+D,DDD,Data Display Debugger
+D,DDE,Dynamic Data Exchange
+D,DDI," Device Driver Interface
+ Direct Dialling-In
+ DNS, DHCP & IP address"
+D,DDL,Data Definition Language
+D,DDN,Digital Data Network
+D,DDNS,Dynamic Domain Name System
+D,DDP,Datagram Delivery Protocol 
+D,DDR,double-data-rate
+D,DDS," Dataphone digital service
+ digital data service
+ Digital Data Storage"
+D,DDSA,digital data service adapter 
+D,DDT,Disk-to-Disk-to-Tape
+D,DDoS,Distributed Denial of Service 
+D,DEA,Data Encryption Algorithm
+D,DEC,Digital Equipment Corporation
+D,DECT,Digital Enhanced Cordless Telecommunications 
+D,DEK,data encryption key
+D,DEL,DELETE
+D,DEN,Directory Enabled Network
+D,DEP," Data Execution Prevention 
+ dynamic enterprise publishing"
+D,DES," Data Encryption Standard
+ Dynamic Energy Saver"
+D,DET,Directory Entry Table
+D,DFI,Design for Innovation
+D,DFL,design for logistics
+D,DFM,"  design for manufacturability
+  Device Fault Manager
+  Digital Flash Media"
+D,DGC,Distributed garbage collection 
+D,DHA,directory harvest attack 
+D,DHCP,Dynamic Host Configuration Protocol
+D,DHTML,Dynamic HyperText Markup Language
+D,DHX,Diffie-Hellman Exchange
+D,DI,Dispatch In
+D,DIA,"  data  integration  and 
+          access
+  Dedicated Internet Access"
+D,DICOM,Digital Imaging and Communications in Medicine
+D,DID,direct inward dial
+D,DIF,Directory Interoperability Forum
+D,DIIOp,Dominio Internet Inter-Orb Protocol
+D,DIMM, Dual In-line Memory Module
+D,DIP,Dual Interface Poll
+D,DIPP,Dual Inline Pin Package
+D,DIR,DIRectory
+D,DISA," Defense Information Systems Agency
+ Data Interchange Standards Association"
+D,DIT,Directory Information Tree
+D,DITTO,"Data Interfile Transfer, Testing and Operations"
+D,DIX,"Digital,  Intel ,  Xerox"
+D,DKI,Driver Kernel Interface
+D,DKMS,Dynamic Kernel Module Support
+D,DL," Density Line
+ double-layer"
+D,DLC,Digital Loop Carrier
+D,DLCI,data link connection identifier
+D,DLDP,Device Link Detection Protocol 
+D,DLE,data link escape
+D,DLL,dynamic link library
+D,DLM,data life cycle management
+D,DLOS," Direct Line-of-sight
+ Desktop Line-of-sight"
+D,DLP," data leak prevention
+ Digital Light Processing"
+D,DLPBC,Dual Loop Port Bypass Circuitry
+D,DLPI,Data Link Provider Interface
+D,DLR,Design Layout Record
+D,DLT,Digital Linear Tape
+D,DM,Data Mining
+D,DMA,Direct Memory Access 
+D,DMAA,"Discrete Mathematics, Algorithms and Applications"
+D,DMB,Dhtml Menu Builder
+D,DMCA,Digital Millennium Copyright Act
+D,DME,distributed management environment 
+D,DMI, Desktop Management Interface
+D,DML,Data Manipulation Language 
+D,DMO,Distributed Management Object
+D,DMS,Digital Multiplex Systems
+D,DMT,Discrete Multi-Tone
+D,DMZ,demilitarized zone
+D,DNA,"  Deoxyribonucleic acid
+  Distributed Network Architecture"
+D,DNIC,data network identification code
+D,DNLC,Directory Name Lookup Cache
+D,DNR,Digital Noise Reduction
+D,DNS,Domain Name Service / Server / System
+D,DNSBL,"DNS Based List, DNS Blacklist, or DNS Blocklist. "
+D,DNSSEC,Domain Name System SECurity extensions 
+D,DO,Dispatch Out
+D,DO-IT,"Disabilities, Opportunities, Internetworking and Technology"
+D,DOA,Dead On Arrival
+D,DOCSIS,Data-over-Cable Service Interface Specifications
+D,DOM,"  distributed output management
+  Document Object Model"
+D,DOMAIN,Distributed Operating Multi Access Interactive Network
+D,DOP,Dilution  Of  Precision
+D,DOS,Disk Operating System
+D,DOV,Data-Over-Voice
+D,DPA,"
+ Document Printing Application
+"
+D,DPC,Destination Point Code 
+D,DPF,Database Partitioning Feature 
+D,DPI," deep packet inspection
+  Distributed Protocal Interface"
+D,DPMA,Dynamic Power Management Architecture 
+D,DPMI,Dos Protected Mode                   Interface
+D,DPN,Data Packet Network
+D,DPV,Distributed Partitioned View
+D,DPW,Digital Pulse Wireless
+D,DPtoTP,Display Coordinates TO Tablet Coordinates
+D,DQM,Data Quality Manager 
+D,DR,disaster recovery
+D,DRAC,Dell Remote Assistant Card
+D,DRAM,Dynamic Random Access Memory
+D,DRE,Document Rendering Engine
+D,DRF,Data Recovery Field
+D,DRM," Data Relationship Management
+ digital rights management"
+D,DROP,delivery of real-time execution information protocol
+D,DRP," Disaster Recovery Plan
+ Distribution and Replication Protocol"
+D,DRU,Disc Remastering Utility
+D,DRW,Defect Remediation Window
+D,DRi,Disaster Recovery Institute 
+D,DS,Differentiated Service
+D,DS0,Digital Subscriber Level Zero
+D,DS1,Digital Signal Level 1
+D,DSA," Digital Signature Algorithm 
+ Distributed Systems Architecture"
+D,DSAP,Destination Service Access Point
+D,DSBM,Designated Subnet Bandwidth Manager
+D,DSE,Directory Services Environment
+D,DSI,Dynamic Systems Initiative
+D,DSL," Digital Subscriber Line 
+ Domain-Specific Language
+ Dual Stress Liner"
+D,DSLAM,DSL Access Multiplexer
+D,DSM,dependency structure matrix
+D,DSM-CC,Digital storage media command and control
+D,DSML,Directory Service Markup Language
+D,DSN,dealer software network
+D,DSO,data source object 
+D,DSOM,Distributed System Object Model
+D,DSP,digital signal processor
+D,DSR," Data Set Ready
+ Dynamic Source Routing"
+D,DSS,igital Signature Standard
+D,DSSA,Distributed System Security Architecture
+D,DSSS,Direct Sequence Spread Spectrum
+D,DSTN,Double-layer Supertwist Nematic
+D,DSTP,Data Space Transfer Protocol
+D,DSU,Digital Service Unit
+D,DSVD,Digital Simultaneous Voice and Data
+D,DSX,Digital System Cross-connect frame
+D,DSn,digital signal level n
+D,DTD,Document Type Definition
+D,DTDS,Disaster Tolerant Disk Systems
+D,DTE,Data Terminal Equipment
+D,DTM," Document Table Model
+ Dynamic synchronous Transfer Mode"
+D,DTMF,Data Tone Multiple Frequency
+D,DTML,Document Template Mark-up Language
+D,DTN,Disruption Tolerant Networking
+D,DTP,Desktop publishing 
+D,DTR,Data Terminal Ready
+D,DTS,Digital Theater System
+D,DTTV,Digital Terestial Televison
+D,DUAL,Diffusing Update Algorithm
+D,DUL,Dial Up List 
+D,DUN,Dial-Up Networking
+D,DUNS,Data Universal Numbering System
+D,DUOW,X
+D,DUPS,Digital Unbundled Port Services
+D,DUV,Data Under Voice
+D,DUW,X
+D,DV, Digital video
+D,DVB-H,Digital Video Broadcasting - Handhelds
+D,DVB-SH,Digital Video Broadcasting - Satellite services to Handhelds
+D,DVBMHP,Digital Video Broadcasting Multimedia Home Platform
+D,DVCD,Double Video CD
+D,DVD,Digital Versatile Disc
+D,DVI,"Digital Video Interface, originally Digital Video Disc"
+D,DVMRP,Distance Vector Multicast Routing Protocol
+D,DVRs,Digital video/Versatile  recorders
+D,DWDM,dense wave division multiplexing
+D,DWF,Design Web Format
+D,DWM,Desktop Windows Manager 
+D,DWS,Dialable Wideband Service
+D,DX,DirectX / Direct X
+D,DXF,Drawing Interchange Format
+D,DXI,Data Exchange Interface
+D,DaaS,desktops-as-a-service
+D,Daemon,Disk And Execution MONitor
+D,Demarc,Demarcation Point
+D,Demux,demultiplexer
+D,DiffServ,Differentiated Services
+D,Digerati,digital version of literati (Italian)
+D,Dirid,Directory identifier
+D,Disc,X
+D,Disk,X
+D,Divx,DIgital Video Express
+D,DoS,denial of service
+D,Dolly,Digital Dolly
+D,d-channel,X
+D,d-commerce,digital commerce
+D,dBm,decibels milliwatt
+D,db,Decibel
+D,defrag,defragment 
+D,dpi, Dots Per Inch
+D,du,disk usage
+D,dxdiag,directx diagnostics
+D,dyld,dynamic link editor 
+D,Â DoCoMo,Do Communication over the Mobile network
+E,E Phone,Emergency    Phones.
+E,E&M,recEive and transMit (or ear and mouth)
+E,E1,Â 
+E,E2,Â 
+E,E2E,End-to-End
+E,E3,Â 
+E,EA," Electronic Arts 
+ Enterprise Agreement"
+E,EAB,Enterprise Address Book
+E,EAI,Enterprise application integration
+E,EAL,Evaluation Assurance Level 
+E,EAM,Event Aggregation Module 
+E,EAP,Extensible Authentication Protocol 
+E,EAR,Emergency Assistance Request
+E,EARL,Enhanced Address Recognition Logic
+E,EAS,enterprise application server
+E,EASDAQ,European Association of Securities Dealers Automated Quotations
+E,EAT,End Around Test
+E,EAX,Environmental Audio
+E,EB,Exabyte
+E,EBCDIC,Extended Binary Coded Decimal Interchange Code
+E,EBIF,Enhanced TV Binary Interchange Format
+E,EBML,Extensible Binary Meta Language
+E,EBPP,Electronic Bill Presentation and Payment
+E,EBS,E-Business Suite 
+E,EC2,Elastic Compute Cloud 
+E,ECB," electronic code book 
+ Event Control Block"
+E,ECC," elliptic curve cryptography
+ Error Checking and Correction"
+E,ECEM,enterprise carbon and energy management 
+E,ECHS,"Extended Cylinders, Heads, Sectors"
+E,ECM,Enterprise content management 
+E,ECMA,European Computer Manufacturers Association
+E,ECMP,Equal Cost Multipath Routing
+E,ECO,Engineering Change Order
+E,ECP,electronic check presentment
+E,ECS,Extended Character Set
+E,ECTF,Enterprise Computer Telephony Forum
+E,ED2K,eDonkey2000
+E,EDA, event-driven architecture
+E,EDC,"electronic dispersion compensation
+Electronic Data Capture 
+"
+E,EDGE,Enhanced Data Rates for GSM Evolution
+E,EDI,Electronic Data Interchange
+E,EDIFACT,"Electronic Data Interchange For Administration, Commerce and Transport"
+E,EDM,"  Electronic Document Management
+  EMC Data Manager"
+E,EDO,Extended Data Output
+E,EDS,Electronic Data Systems
+E,EDW,enterprise data warehouse
+E,EEPROM,Electrical Erasable Programmable Read Only Memory
+E,EF,Expedited Forwarding
+E,EFI, Extensible Firmware Interface
+E,EFM,Enterprise fraud and misuse management 
+E,EFS,"  Encrypting File System
+ Error Free Seconds "
+E,EFT,Electronic Funds Transfer
+E,EGA,Enhanced Graphics Adapter
+E,EGL,Enterprise Generation Language
+E,EGNOS,"European Geostationary Navigation Overlay 
+          Service"
+E,EGP,Exterior Gateway Protocol
+E,EH&S,"Environmental, Health and 
+          Safety"
+E,EHA,Ethernet Hardware Address 
+E,EHR,Electronic Health Record
+E,EIA," Electronic Industries Alliance
+ enterprise information architecture "
+E,EIGRP,Enhanced Interior Gateway Routing Protocol
+E,EII,"enterprise integration 
+          information"
+E,EIM," Enterprise Identity Mapping 
+ enterprise information management"
+E,EIRP,Effective Isotropic Radiated Power
+E,EIS,enterprise information system
+E,EIST,Enhanced Intel SpeedStep Technology
+E,EJB,Enterprise JavaBeans
+E,EKTS,electronic key telephone set
+E,ELAN,Emulated Local Area Network
+E,ELM,Expertise location and management
+E,ELT,"extract, load, and transform"
+E,EMA,Enterprise Management Associates
+E,EMC,Electromagnetic Compatibility
+E,EMF," ElectroMagnetic Field
+ ElectroMotive Force"
+E,EMI,"  Electromagnetic interference
+ Enhanced Multilayer Image "
+E,EMOTICON,EMOTion ICON
+E,EMPI,Enterprise Master Patient Index
+E,EMR,electronic medical record
+E,EMS," Enhanced Messaging Service
+ enterprise messaging system
+ Expanded Memory Specification"
+E,EMV,Europay-MasterCard-Visa
+E,ENIW,Web-enabled Ethernet Networking Interface
+E,ENQ,Enquiry
+E,ENS,enterprise nervous system
+E,ENTL,Electronic New Hire/Termination/Leave of Absence
+E,ENUM,electronic numbering / Electronic Number Mapping system
+E,ENX,European Network Exchange
+E,EOF,end-of-file
+E,EOL,End Of Life
+E,EPABX,Electronic Private Automatic Branch Exchange
+E,EPG(s),electronic program guides
+E,EPGs,electronic program guides
+E,EPIC,Explicitly Parallel Instruction Computing
+E,EPL,Ethernet Private Line 
+E,EPM,Enterprise Performance Management
+E,EPN,Extended Port Network
+E,EPO,emergency power off 
+E,EPOC,Electronic Piece of Cheese
+E,EPP," Enhanced Parallel Port
+ Enterprise Portal Platform"
+E,EPR," Electronic Patient Record
+ EndPoint Reference"
+E,EPROM,Erasable Programmable Read Only Memory
+E,EPS," Encapsulated PostScript
+ Events Per Second "
+E,EPU,Energy Processing Unit
+E,ERL,Echo Return Loss
+E,ERMS,"electronic records management 
+          systems"
+E,ERP," Enterprise resource planning
+ error recovery procedure"
+E,ERR,ERRor
+E,ES-IS,End System to Intermediate System
+E,ESA, Enthusiast System Architecture 
+E,ESB,enterprise service bus
+E,ESCD,Extended System Configuration Data
+E,ESCON,Enterprise Systems Connection
+E,ESDI,Enhanced Small Device Interface
+E,ESE,Extensible Storage Engine
+E,ESF,Extended Superframe Format
+E,ESG,Enterprise Strategy Group
+E,ESI,Edge Side Include
+E,ESL,electronic shelf labels
+E,ESM,Enterprise Service Management 
+E,ESN,electronic serial number
+E,ESP," estimated street price
+ Encapsulated Security Payload"
+E,ESPN,Entertainment and Sports Programming Network
+E,ESRB,Entertainment Software Rating Board
+E,ESS," employee self-service
+ Extended Service Set "
+E,ETA,Embedded Transport Acceleration
+E,ETAS,Encrypted Transaction Audit System
+E,ETC,Enhanced Throughput Cellular
+E,ETL,"Extract, Transform and Load"
+E,ETN,electronic tandem network
+E,ETRN,Extended Turn
+E,ETSI,European Telecommunications Standardisation Institute
+E,ETTb,Ethernet To The Business
+E,ETTh,Ethernet To The Home
+E,ETX,end-of-text character
+E,EUC,Extended UNIX Code
+E,EUEM,end user experience monitoring
+E,EULA,End-User License Agreement
+E,EUP,Enterprise Unified Process
+E,EVA, Enterprise Virtual Array
+E,EVDO,Evolution Data Only/Evolution Data Optimized
+E,EWS,Early Warning Status
+E,EX,exchange 
+E,EXE,EXEcutable
+E,EXIF,EXchangeable Image File format
+E,E_D_TOV,error detect timeout value 
+E,EoS,X
+E,EoSDH,X
+E,Eutelsat,European Telecommunications Satellite Organization
+E,e-,Electronic 
+E,e-discovery,Electronic discovery 
+E,e-paper,Electronic paper
+E,eCI,eCommerce integrator 
+E,ePC,electronic product code
+E,ePO,EPolicy Orchestrator
+E,eRX,e-Prescribing
+E,edress,e-mail address 
+E,etc,Essential Text Configuration
+F,FA,Foreign Agent
+F,FACCH,Fast Associated Control Channel 
+F,FAN,File Area Network
+F,FAQ,Frequently Asked Questions
+F,FAR,false acceptance rate 
+F,FARE,Film Automatic Retouching and Enhancement
+F,FASS,Fast Access Station Switching 
+F,FAST,"  Federation Against Software Theft
+  File And Settings Transfer"
+F,FAT,file allocation table
+F,FAW,Frame Alignment Word 
+F,FAX,FACSimile
+F,FBA,fixed-block architecture 
+F,FBD,Fully Buffered DIMM
+F,FBGA,Fine-pitch Ball Grid Array
+F,FBSS,Fast Base Station Switching
+F,FC,X
+F,FC-AL,Fibre Channel Arbitrated Loop
+F,FCC,Federal Communications Commission
+F,FCCH,Frequency Correction Channel
+F,FCD,Floating car data or floating cellular data
+F,FCH,Frame Control Header
+F,FCIP,Fibre Channel over Internet Protocol
+F,FCL,Framework Class Library
+F,FCP, Fibre Channel Protocol
+F,FCPGA,Flip Chip Pin Grid Array
+F,FCS,"  Fluorescence Correlation Spectroscopy 
+  Frame Check Sequence"
+F,FCSI,Fibre Channel Systems Initiative
+F,FCoE,Fibre Channel over Ethernet
+F,FDD,Frequency Division Duplex
+F,FDDI,Fiber Distributed Data Interface
+F,FDE,Full-disk encryption 
+F,FDM,"  Feature Download Management
+  Frequency Division Multiplexing 
+  fused 
+            deposition modeling"
+F,FDS,Fraud Detection System
+F,FDX,Full Duplex
+F,FE,"  Fast Ethernet
+  field engineer"
+F,FEC,Forward Error Correction
+F,FECN,Forward Explicit Congestion Notification
+F,FEFO,"First Ended, First Out"
+F,FEMA,Failure mode and effects analysis
+F,FEP,Front-End Processor
+F,FER,Frame Erasure/Error Rate
+F,FERPA,Family Educational Rights and Privacy Act 
+F,FET,field effect transistor
+F,FEXT,Far End Cross Talk
+F,FFD,Flicker Free Display
+F,FFPF,fairly fast packet filter
+F,FFT,Fast Fourier Transform
+F,FG A/B/C/D,feature group A/B/C/D
+F,FHS,Fan Heat-Sink
+F,FHSS,Frequency Hopped Spread Spectrum
+F,FICON,Fiber Connection
+F,FIDNET,Federal Intrusion Detection Network
+F,FIFO,"first in, first out"
+F,FIGS,Figures Shift
+F,FIM,federated identity management
+F,FINDDEST,Find Destination
+F,FINRA,Financial Industry Regulatory Authority 
+F,FIPS,Federal Information Processing Standards
+F,FIR,Finite Impulse Response 
+F,FIRST,Forum of Incident Response and Security Teams
+F,FISMA,Federal Information Security Management Act
+F,FIX,Financial Information Exchange
+F,FLAC,Free Lossless Audio Codec
+F,FLAG,Fiber Link Around the Globe
+F,FLOGI,fabric login
+F,FLOPS,Floating Point Operations Per Second
+F,FM,Frequency Modulation
+F,FM-200,Firemaster / Fire Master 200
+F,FMA99,Financial Services Modernization Act of 1999
+F,FMC,fixed-mobile convergence
+F,FMEA,Failure Mode and Effects Analysis
+F,FMH,function management header
+F,FMV,Full-Motion Video
+F,FOC,Field Oriented Control
+F,FOIRL,FiberOptic InterRepeater Link
+F,FOMA,Freedom of Mobile Multimedia Access
+F,FOP,Formatting Objects Processor
+F,FORTRAN,formula translation 
+F,FOSS,Free and open source software
+F,FOSSIL,Fido Opus Seadog Standard Interface Layer
+F,FOT,Fiber Optic Terminal
+F,FOTS,Fiber Optic Transmission System
+F,FPA,Function point analysis
+F,FPE,Forefront Protection for Exchange
+F,FPGA,Field Programmable Gate Array
+F,FPM,Fast Page Mode
+F,FPP,Full Product Package
+F,FPS,Flexible Payments Service
+F,FPU,floating point unit
+F,FQDN,Fully Qualified Domain Name
+F,FR,Frame Relay 
+F,FRAD,Frame Relay Access Device
+F,FRAG (21),Financial Reporting & Auditing Group Guidelines
+F,FRDS,Failure Resistant Data Systems
+F,FRED,Fair Random Early Detection
+F,FRR,fast retransmit and recovery
+F,FRS,File Replication Service
+F,FRU,field-replaceable unit
+F,FSAA,Full Screen Anti-Aliasing 
+F,FSAM,Federated Storage Area Management
+F,FSB,frontside bus
+F,FSM,finite state machine 
+F,FSML,Financial Services Markup Language
+F,FSMO,Flexible Single Master Operations
+F,FSN,Full-Service Network
+F,FSPF,fibre channel shortest path first
+F,FSS,File system server
+F,FSSS,Fast Serving Station Switching
+F,FSTC,Financial Services Technology Consortium
+F,FTA,failure to acquire
+F,FTAM,"File Transfer,                                                   Access, and Management"
+F,FTBFS,Fails To Build From Source
+F,FTDS,Failure Tolerant Data Systems
+F,FTL,Flash Translation Laye
+F,FTNS,Fixed Telecommunication Network Services
+F,FTP,File Transfer Protocol
+F,FTTB,Fiber to the building 
+F,FTTN,Fiber to the neighborhood 
+F,FUD,"Fear, Uncertainty, and Doubt"
+F,FUSC,Fully Used SubChannel
+F,FW,Firewall
+F,FWA,Fixed wireless access
+F,FX,foreign exchange
+F,FXO,Foreign Exchange Office
+F,FXP,"  File eXchange Protocol
+  Foreign Exchange Protocol
+  fxp "
+F,FXS,Foreign Exchange Station
+F,FiOS,Fiber Optic Service
+F,FoIP,Fax Over Internet Protocol
+F,FpML,Financial Products Markup Language
+F,FreeBSD,Free Berkeley Software Distribution 
+F,favicon,favorites icon
+F,freeware,free software 
+G,G,giga
+G,G2C,Government to Citizen
+G,GAIA,GUI Application Interoperability Architecture
+G,GAMS,General Algebraic Modeling System 
+G,GAP,"Groups, Algorithms and Programming"
+G,GAPE,Google Apps Premier Edition
+G,GARP,Generic Address Resolution Protocol
+G,GB,Gigabyte
+G,GBIC, GigaBit Interface Converter
+G,GBP,group buffer pool
+G,GCC,GNU Compiler Collection 
+G,GCD,Grand Central Dispatch
+G,GCG,Grey Component Replacement
+G,GCGID,graphic character global identifier 
+G,GCI,General Communication Inc.
+G,GD&T,geometric dimensioning and tolerancing
+G,GDB,GNU debugger 
+G,GDI,Graphics Device Interface
+G,GDM," global 
+          delivery model "
+G,GDP,Gateway Discovery Protocol
+G,GDPS,Geographically Dispersed Parallel Sysplex
+G,GDS,Global data synchronization
+G,GDSN,Global Data Synchronization Network
+G,GDTs,Global data types
+G,GEAR,Gigabyte Enhanced Agp Riser
+G,GEDCOM,GEnealogical Data COMmunication
+G,GEMMS,Global Enterprise Manufacturing Management System
+G,GEO,X
+G,GEOS,graphic environment operating system 
+G,GERAN,GSM(GPRS)/EDGE Radio Access Network
+G,GEnie,General Electric Network for Information Exchange
+G,GFP,Generic Framing Procedure
+G,GFS,"Grandfather, Father, Son"
+G,GGP,Gateway-gateway protocol 
+G,GGSN,Gateway GPRS Support Node
+G,GHC,Glasgow Haskell Compiler
+G,GIAC,Global Information Assurance Certification
+G,GID,group identification number
+G,GIF,Graphic Interchange Format
+G,GIFT,GNU Image Finding Tool 
+G,GIGO,"Garbage In, Garbage Out."
+G,GIMP,Gnu Image Manipulation Program
+G,GINA,Graphical Identification and Authentication
+G,GINI,Gateway Interface for Network Initialization
+G,GIOP,General Inter-ORB Protocol
+G,GIS,Geographical Information System
+G,GIX,Global Internet eXchange
+G,GKTMP,Gatekeeper Transaction Message Protocol
+G,GLA,Generic Log Adapter
+G,GLB,X
+G,GLBA,X
+G,GLONASS,Global Navigational Satellite System
+G,GLPK,GNU Linear Programming Kit 
+G,GLUT,openGL Utility Toolkit
+G,GMA,Gmail Drive
+G,GMM,GPRS Mobility Management 
+G,GMR,Giant Magneto Resistance
+G,GMRP,Garp Multicast Registration Protocol
+G,GMRS,General Mobile Radio Service
+G,GMS,"  generalized main scheduling
+ General MIDI Standard
+ Global Messaging Service 
+  Google Message Security"
+G,GMSK,Gaussian Minimum Shift Keying
+G,GMX,"Global Mail eXchange, in Germany: Global Message eXchange"
+G,GNAT,GNU NYU Ada Translator
+G,GNN,Global Network Navigator
+G,GNOME,GNU Network Object Model Environment
+G,GNSO,Generic Names Supporting Organization
+G,GNU ,GNU's not Unix
+G,GOCA,Graphic Object Content Architecture
+G,GOLC,Growth Opportunity License Charge
+G,GOMS," Goals, Operators, Methods, and Selection rules"
+G,GOPS,Giga (billion) Operations Per Second
+G,GOS,Grade of Service
+G,GOSIP,Government OSI Profile
+G,GOW,"Gears of War
+God of War "
+G,GPF,General Protection Fault
+G,GPIO,general-purpose I/O
+G,GPL,General Public License
+G,GPO,Group Policy Object 
+G,GPRS,general packet radio service
+G,GPS," Global Positioning System
+  GNAT Programming Studio"
+G,GPSL,General Purpose Scripting Language
+G,GPSS,General Purpose Simulation System
+G,GPU,Graphics Processing Unit
+G,GPWW,group practice without walls
+G,GRC,"governance, risk and compliance"
+G,GRC.SQ,"Governance, Risk Management, Compliance, Security, and Data Quality"
+G,GRCM,GRC management
+G,GRE,generic routing encapsulation
+G,GROW,GNU Remote Operations                                                   Web
+G,GRT,Granular Recovery Technology
+G,GSAM,generalized sequential access method
+G,GSC,Gecko System Connect 
+G,GSI,Gigascale Integration
+G,GSK,Global Security Kit
+G,GSM,Global System for Mobile communication
+G,GSO,global sign-on 
+G,GSR,Gigabit Switch Router
+G,GTL,Gunning Transceiver Logic
+G,GTM," global trade management
+ Global Traffic Manager"
+G,GTP,GPRS Tunneling Protocol 
+G,GTS,Generic Traffic Shaping
+G,GTT,Global Title Translation
+G,GUA,graphical user authentication 
+G,GUI,Graphical User Interface 
+G,GUID,Globally Unique  Identifier
+G,GUTBN,Globally Unique Time Based Number
+G,GVN,Global value numbering
+G,GVPN,Global Virtual Network Service
+G,GVRP,Generic VLAN Resolution Protocol
+G,GVU,"Graphic, Visualization, and Usability"
+G,GWEN,Ground Wave Emergency Network 
+G,GWT,Google Web Toolkit
+G,GXA,Global XML Web Services Architecture
+G,GXS,"Global 
+          eXchange Services"
+G,Gas,GNU Assembler
+G,Gbps,gigabits per second
+G,Ghost,General Hardware-Oriented Software Transfer 
+G,GiB,X
+G,gb,Giga bit
+G,gfortran,GNU Fortran compiler
+G,gib,X
+G,grep,global-regular-expression-print
+G,gzip,GNU zip
+H,H&H,Hoot & Holler
+H,H/S LAN,High-Speed Local-Area Network
+H,H3C,(previous) Huawei Technologiesâ3Com
+H,HA,high availability
+H,HAAT,Height Above Average Terrain
+H,HACMP,High-Availability Cluster Multi-Processing
+H,HAD,Holographic Autostereoscopic Display
+H,HADR,high availability disaster recovery
+H,HAE,Height Above  Ellipsoid
+H,HAL,Hardware Abstraction Layer
+H,HAN,home area network
+H,HARC,Hitachi Asynchronous Remote Copy
+H,HARQ,Hybrid Automatic Repeat reQuest 
+H,HASP,Houston Automatic Spooling Program
+H,HAT,Heap Analysis Tool
+H,HAVi,Home Audio Video interoperability
+H,HBA,host bus adapter
+H,HCI," Host Controller Interface
+ Human-Computer Interaction"
+H,HCL,Hardware Compatibility List
+H,HCM,human capital management
+H,HCO,High-Capacity Optical 
+H,HCR,Huffman Codeword Reordering
+H,HCT,hardware compatibility tests
+H,HD,X
+H,HD DVD,high-density DVD
+H,HDA,Head Disk Assembly
+H,HDCP,High-bandwidth Digital Content Protection
+H,HDD,X
+H,HDLC,High Level Data Link                                                   Control
+H,HDMI,High-Definition Multimedia Interface
+H,HDML,Handheld Device Markup Language
+H,HDR,"High-dynamic-range imaging or High-dynamic-range rendering 
+host-discovered resource"
+H,HDS,Hitachi Data Systems
+H,HDSL,High bit-rate Digital Subscriber Line
+H,HDTP,Handheld Device Transport Protocol 
+H,HDTV,High Definition television 
+H,HDx,X
+H,HE-AAC,"High Efficiency Advanced Audio 
+          Coding"
+H,HEC,Header Error Control
+H,HEL,Hardware Emulation Layer
+H,HEP,horizontal enterprise portal
+H,HERF,high energy radio frequency
+H,HFC,Hybrid Fiber Coax
+H,HFS,Hierarchical File System
+H,HFS+,Hierarchical File System Plus
+H,HGFS,Host-Guest File System
+H,HGML,Hypertext General Markup Language
+H,HHO,Hard Hand Off
+H,HHT,Hand-Held Terminal
+H,HID," High-Intensity Discharge
+ Human Interface Device"
+H,HIDAM,hierarchical indexed direct access method
+H,HIDS,Host based Intrusion Detection System
+H,HIL,Hardware-in-the-Loop
+H,HIMEM,HIgh MEMory
+H,HIP, Host Identity Protocol
+H,HIPAA,Health Insurance Portability and Accountability Act
+H,HIPPI,HIgh Performance Parallel Interface
+H,HIS,healthcare information system
+H,HISAM,hierarchical indexed sequential access method 
+H,HITECH,Health Information for Economic and Clinical Health 
+H,HIToolbox,Human Interface Toolbox
+H,HKCC,HKey_Current_Config
+H,HKLM,HKey_Local_Machine
+H,HL7,Health Level 7 
+H,HLA,High Level Architecture
+H,HLLAPI,High Level Language Application Programming Interface
+H,HLR,Home Location Register 
+H,HMA,High Memory Area
+H,HMD,Head Mounted Display
+H,HMP,Hybrid Multiprocessing
+H,HOSED,Hardware Or Software Error Detected
+H,HP," Hewlett-Packard
+ HoneyPot"
+H,HPA,High Performance Addressing
+H,HPB,High Ping Bastard
+H,HPC,High Performance Computing
+H,HPF,High Pass Filter
+H,HPFS,High Performance File System
+H,HPGL,Hewlett-Packard Graphics Language
+H,HPIB,Hewlett Packard Interface Bus
+H,HPNA,Home Phoneline Networking Alliance
+H,HPR,High-Performance Routing
+H,HR,horizontal rule
+H,HRAA,High Resolution Anti Aliasing
+H,HRC,Hitachi Remote Copy
+H,HRMS,human resource management system
+H,HRPD,High Rate Packet Data
+H,HSB,X
+H,HSCSD,High Speed Circuit Switched Data
+H,HSD,High Speed Data
+H,HSDPA,High-Speed Downlink Packet Access 
+H,HSF," Heat Sink Fan
+ High Sierra Format"
+H,HSIL,Host Side Igmp Library
+H,HSM," Hardware Security Module
+ Hierarchical storage management"
+H,HSO,Hot Spot Operator 
+H,HSR,Horizontal Scan Rate
+H,HSRP,Hot Standby Router Protocol
+H,HSS,Home Subscriber Service 
+H,HSSDC, High Speed Serial Direct Connect
+H,HSSI,High Speed Serial Interface
+H,HSUPA, High-Speed Uplink Packet Access 
+H,HSV,X
+H,HT," Hyper-Threading
+ HyperTransport"
+H,HTC,formerly High Tech Computer Corporation
+H,HTM,X
+H,HTML,X
+H,HTML5,HyperText Markup Language 5
+H,HTT,Hyper-Threading Technology
+H,HTTP,HyperText Transport Protocol
+H,HTTPS,HTTP over SSL
+H,HUD, Head Up Display
+H,HURSE,Hasp Unit Record SErvice
+H,HWS,high watermark setup
+H,HXRC,Hitachi Extended Remote Copy
+H,Hactivism ,"from ""hack"" and ""activism"" "
+H,HiFD,HIgh-capacity Floppy Disk
+H,HiPerLinks,High-Performance Links
+H,HighMAT,High-performance Media Access Technology
+H,Hiperspace,High-Performance Space
+H,Honeynet,A network of honeypots. 
+H,Hz,hertz
+H,h-menu,Hierarchical menu
+I,I-DEAS,Integrated-Design Engineering Analysis Software 
+I,I-PNNI,Integrated Private Network-Network Interface
+I,I/O,Input/Output
+I,I2,Internet2
+I,I2C,Inter-Integrated Circuit
+I,IA-32/64,Intel Architecture - 32/64
+I,IAB,Internet Architecture Board (previous Internet Activities Board)
+I,IAD,integrated access device
+I,IAM,Identity and Access Management 
+I,IANA, Internet Assigned Numbers Authority 
+I,IAP,Internet Access Provider
+I,IAS,Internet Authentication Service
+I,IAT,Inside Air Temperature
+I,IB,Interface Bus
+I,IBG,interblock gap
+I,IBM,International Business Machines
+I,IBO,industry business unit 
+I,IBR,intelligent  browser  referencing
+I,IBS,"Internet Banking System
+          Group"
+I,IBSG,"Internet Business Solutions 
+          Group"
+I,IBT," IntelliLight Broadband Transport
+ Internet Based Training"
+I,IC," Integrated Circuit
+ I see"
+I,ICA," Independent Computing Architecture
+ International Compliance Association"
+I,ICANN,Internet Corporation For Assigned Names and Numbers
+I,ICC,Internet Commerce Corporation 
+I,ICCs, integration competency centers
+I,ICDL,International Computer Driving Licence
+I,ICE," in-circuit emulator
+ information and content exchange
+ Interactive Connectivity Establishment"
+I,ICF,Internet Connection Firewall
+I,ICI,"  Information-centric infrastructure 
+ Interexchange Carrier Interface"
+I,ICM,incentive compensation management 
+I,ICMP,Internet Control Message Protocol
+I,ICMS,incentive compensation management system
+I,ICP,Internet Content Provider
+I,ICPP,Intel Channel Partner Program
+I,ICQ,I Seek You
+I,ICRA,Internet Content Rating Association
+I,ICS," Incremental Change Synchronization
+ Internet Connection Sharing"
+I,ICSA,International Computer Security Association
+I,ICSI,Institute for Clinical Systems Improvement 
+I,ICT,information and communication technology
+I,ICU, International Components for Unicode
+I,ID,identifier 
+I,IDA,(Verizon) Internet Dedicated Access
+I,IDARS, integrated document archive and retrieval system
+I,IDC,Internet data center
+I,IDD,international direct dial / dialing
+I,IDE," Integrated Development Environment
+ integrated drive electronics"
+I,IDEA,International Data Encryption Algorithm
+I,IDEMA,International Disk drive Equipment and Materials Association
+I,IDIM,"Identity Information 
+          Management "
+I,IDIOT,Intrusion Detection In Our Time
+I,IDIQ,indefinite delivery/indefinite quantity;
+I,IDL,Interface Definition Language
+I,IDM,Internet Download Manager  
+I,IDOL,Intelligent Data Operating Layer
+I,IDOM,integrated document and output management
+I,IDQ,Informatica Data Quality
+I,IDR, Intelligent Disaster Recovery
+I,IDS,intrusion detection system
+I,IDT,(originally) International Discount Telecommunications
+I,IDU,interface data unit
+I,IE,Internet Explorer
+I,IEC," Inter-exchange Carrier
+ International Electrotechnical Commission"
+I,IEE,Institution of Electrical Engineers
+I,IEEE,Institute of Electrical and Electronics Engineers
+I,IES,Integrated Environmental Solutions
+I,IETF,Internet Engineering Task Force
+I,IFB,Internet Free/Busy
+I,IFL,Integrated Facility for Linux
+I,IFRS,International Financial Reporting Standards
+I,IGF,Internet Governance Forum
+I,IGMP,Internet Group Management Protocol
+I,IGP,interior gateway protocol
+I,IGRP,Interior Gateway Routing Protocol
+I,IGS,IBM Global Services
+I,IHS,Integrated Heat Spreader
+I,IHV,Independent hardware vendor
+I,IIOP,Internet  Inter-ORB  Protocol
+I,IIS,Internet Information Server
+I,IKE,Internet Key Exchange
+I,ILEC, Independent  Local Exchange Carrier
+I,ILEs,Immersive learning environments
+I,ILM," IBM License Manager
+ Information Lifecycle Management"
+I,ILP,initial loader program
+I,IM," Identity Management
+ Instant Messaging"
+I,IMAC,"installations, moves, adds and changes"
+I,IMAP,Internet Message Access Protocol
+I,IMAPI,Image Mastering Application Programming Interface
+I,IMC," Intelligent Management 
+          Center
+ Internet Mail Consortium "
+I,IME,Input Method Editor
+I,IMEI,International Mobile Equipment Identifier
+I,IMS," Information Management                                                     System
+ IP multimedia systems"
+I,IMSI,International Mobile Subscriber Identity
+I,IMUX,Inverse Multiplexer
+I,INAP,Intelligent Network Application Protocol
+I,INC,International Network of Crackers 
+I,INI file,initialization file
+I,INTAP,Interoperability Technology Association for Information Processing
+I,IOA,input/output adapter 
+I,IOCA,Image Object Content Architecture
+I,IOD,in-order delivery
+I,IOM,Integrated Object Model
+I,IONL,Internal Organization of the Network Layer
+I,IOP,Interoperability
+I,IOPS,Input/Output operations per second
+I,IOS,"international operator services (IOS Telecom)
+Internetwork Operating System"
+I,IOTP,Internet Open Trading Protocol 
+I,IP," Intellectual Property
+ Internet Protocol "
+I,IP PBX,Internet Protocol private branch exchange
+I,IP address,Internet Protocol address
+I,IP number,Internet Protocol number
+I,IP telephony,Internet Protocol telephony
+I,IPA,intelligent process automation
+I,IPAM," Intellectual property asset management 
+ IP Address Management"
+I,IPC,interprocess communication
+I,IPL,initial program load
+I,IPLC,X
+I,IPM,Internetwork Performance Monitor
+I,IPMX,IP management exchange 
+I,IPP, Internet Printing Protocol
+I,IPPP,Internet presence provider and promoter
+I,IPR,Intellectual Property Rights
+I,IPRM,intellectual property rights management
+I,IPRR, Intellectual property rights and royalties
+I,IPS,intrusion prevention system
+I,IPSec,IP Security 
+I,IPT,"  Identity Protection Technology 
+ IP telephony "
+I,IPTV,Internet Protocol Television
+I,IPX,Internetwork Packet Exchange
+I,IPv4,"Internet Protocol, version 4"
+I,IPv6,Internet Protocal version 6
+I,IPv6CP,IPv6 PPP Control Protocol
+I,IR," InfraRed
+ Internet Registry"
+I,IRC,Internet Relay Chat
+I,IRF, Intelligent Resilient Framework
+I,IRP,I/o Request Packet
+I,IRQ,Interrupt Request
+I,IRS,Interrupt Source
+I,IRTF, Internet Research Task Force
+I,IRU,Indefeasible Right of Use 
+I,IS,Information Systems
+I,IS-IS,Intermediate-System-to-Intermediate-System
+I,ISA," Industry Standard Adapter
+ Internet Security and Acceleration"
+I,ISACA,Information Systems Audit and Control Association
+I,ISAM,Indexed Sequential Access Method
+I,ISATAP,Intra-Site Automatic Tunnel Addressing Protocol
+I,ISC,Internet Software Consortium
+I,ISDN,Integrated Services Digital Network
+I,ISIS,Image and Scanner Interface Specification
+I,ISL,inter-switch link
+I,ISM," industrial, scientific and medical "
+I,ISN,Initial Sequence Numbers
+I,ISO, International Organization for Standardization
+I,ISOC,Internet SOCiety
+I,ISP,Internet Service Provider
+I,ISR,interrupt service routine
+I,ISS,Internet Security Systems
+I,ISSAC,Information System for Advanced Academic Computing
+I,ISTG,InterSite Topology Generator
+I,ISUP,ISDN User Part
+I,ISV,independent software vendor
+I,IT,Information Technology 
+I,ITAD,IT asset disposition
+I,ITAM,IT asset management
+I,ITC,IT consolidation
+I,ITCAM,IBM Tivoli Composite Application Monitoring
+I,ITCM,IT Change Management
+I,ITCS,Intermodal Transport Control System
+I,ITIL,Information Technology Infrastructure Library
+I,ITL, Instructional Technology Lab
+I,ITLA,Incremented Three Letter Acronym 
+I,ITO,IT outsourcing
+I,ITOM,IT operations management
+I,ITU,International Telecommunication Union
+I,ITWAB,IT Workload Automation Broker Tools 
+I,ITXC,Internet Telephony Exchange Carrier
+I,ITeS,Information Technology Enabled Services
+I,IVANS,International Value Added Network Services
+I,IVDT,Integrated Voice and Data Terminal
+I,IVIS,in-vehicle information system
+I,IVR,interactive voice response
+I,IXC,Interexchange Carrier
+I,IXS,Integrated xSeries Server
+I,IaaS,integration as a service
+I,InfoSec,Information Security 
+I,Inmarsat ,International Maritime Satellite Organization
+I,Intel,INTegrated ELectronics
+I,InterNIC,Internet Network Information Center
+I,IoS,Internet over Satellite
+I,IoT, Internet of Things
+I,IÂ²C,Inter-Integrated Circuit
+I,iAMT,Intel Active Management Technology
+I,iDEN,integrated digital enhanced network
+I,iDTV,Interactive digital television
+I,iFCP,Internet Fibre Channel Protocol
+I,iFrame,inline frame
+I,iGEMS,Integrated Global Enterprise Management System
+I,iLO,Integrated Lights-Out
+I,iODBC,Independent Open DataBase Connectivity
+I,iOS,iPhone OS
+I,iRMC,Integrated Remote Management Controller
+I,iSCSI,Internet SCSI
+J,J-code,Japan code
+J,J2EE,"Java 2 Platform, Enterprise Edition"
+J,J2ME,"Java 2 platform, Micro Edition"
+J,J2SE,"Java 2 platform, Standard Edition"
+J,JAAS,Java Authentication and Authorization Service
+J,JACK,JACK Audio Connection Kit 
+J,JAD, joint application development
+J,JAMES,Java Apache Mail Enterprise Server
+J,JAR,Java Archive
+J,JBIG,Joint Bi-level Image experts Group
+J,JBL,Jame B. Lansing
+J,JBOD,Just a Bunch of Disks 
+J,JCA,"Java 
+          Connector Architecture"
+J,JCAHO,Joint Commission on Accreditation of Healthcare Organizations
+J,JCB,job control block
+J,JCL,Job Control Language
+J,JCP,Java Community Process
+J,JDBC, Java DataBase Connectivity
+J,JDK,Java Development Kit
+J,JEDEC,Joint Electronic Devices Engineering Council
+J,JES,Job Entry Subsystem
+J,JFK,Just Fast Keying 
+J,JFS,Journaling File System
+J,JIA,Joint Innovation Assessment
+J,JIT,Just-in-time
+J,JITA,Just In Time Activation
+J,JITT,just-in-time training
+J,JJ,Josephson Junction
+J,JMS,"Java 
+          Messaging Service"
+J,JMX,"Java 
+          Management eXtensions"
+J,JNI,Java Native Interface
+J,JOA,Joint Opportunity Assessment
+J,JOLAP,Java Interface for OLAP
+J,JPDL,jBoss process definition language
+J,JPEG,X
+J,JPG,X
+J,JRE,Java Runtime Environment
+J,JS,JavaScript
+J,JSON,JavaScript Object Notation
+J,JSP,Java Server Page
+J,JSR,"Java 
+          Specification Request"
+J,JTAG,Joint Test Action Group
+J,JTC,Join Transitive Closure
+J,JTC1,Joint Technical Committee 
+J,JTRS,Joint Tactical Radio System
+J,JVM,Java virtual machine
+J,JVT,job volume table
+K,KBE,knowledge-based engineering
+K,KBMS,KeyBoard/MouSe
+K,KBS,Knowledge-Based System
+K,KBW,keyboard wedge
+K,KCC,Knowledge Consistency Checker
+K,KDC, Key Distribution Center
+K,KDD,Knowledge Discovery in Databases
+K,KDE,K Desktop Environment
+K,KDSI,thousand (K) Delivered Source Instructions
+K,KGD,Known Good Die
+K,KIPS,Thousands of instructions per second
+K,KIS,Knowbot Information Service
+K,KISS,"Keep It Simple, Stupid"
+K,KLOC,thousands of lines of code
+K,KM,knowledge management
+K,KML,Keyhole Markup Language
+K,KMS," Key Management Server
+ Knowledge Management System"
+K,KNI,Katmai New Instructions
+K,KOLs,Key opinion leaders
+K,KPCMS,Kodak Precision Color Management System
+K,KPI,key performance indicator
+K,KPN,(formerly) Koninklijke PTT Nederland
+K,KPO,Knowledge Processing Outsourcing 
+K,KSAM,Keyed Sequential Access Method
+K,KSR,Keyboard Send/Receive
+K,KSU,Key Service Unit
+K,KTM,kernel transaction manager
+K,KTS,Key Telephone System
+K,KUIP,Kernel User Interface Package
+K,KVA,Kilo Volt Amp
+K,KVM," K Virtual Machine
+ Keyboard, Video, and Mouse"
+K,KWH,KiloWatt Hour
+K,KYC,Know Your Customer 
+K,Kb,Kilobit
+K,Kbps,Kilobits Per Second
+K,KiB,kibibyte 
+K,k,kilo
+K,k-map,knowledge map
+K,kB,Kilobyte
+K,kW,kilowatt
+K,kaid,Kai console daemon
+K,keychan,Key changer
+K,keygen,Key Generator
+K,keylogging,keystroke logging 
+K,knowbot,Knowledge robots
+K,ksh,Korn shell
+L,L1,X
+L,L2 cache,X
+L,L2CAP,Logical Link and Control Adaptation                                                   Protocol
+L,L2F,Layer 2 Forwarding
+L,L2S,Layer 2 Switch
+L,L2TP,Layer 2 Tunneling Protocol
+L,L3F,Layer 3 Forwarding
+L,L3S,Layer 3 Switch
+L,L3TP,Layer Three Tunneling Protocol
+L,LA,Load Address
+L,LAC,L2tp Access Concentrator
+L,LACNIC,Latin American and Caribbean Internet Addresses Registry
+L,LACP,Link Aggregation Control Protocol
+L,LADDR,Layered Device Driver
+L,LAI,Location Area Identity 
+L,LAIPE,Link And In Parallel Execute
+L,LAMP,"Linux, Apache, MySQL and PHP"
+L,LAN,Local Area Network
+L,LANE,Local Area Network Emulation
+L,LAPD,Link Access Procedures on the D channel
+L,LAS,logical application structure
+L,LASINT,laser intelligence
+L,LAT,Local Address Table
+L,LATA,Local Access and Transport Area
+L,LBA,Logical Block Addressing
+L,LBAC,label-based access control
+L,LBG,load balancing group
+L,LBO,line buildout
+L,LBS,Location-based service
+L,LCC,Limited combustible cable
+L,LCD,liquid crystal display
+L,LCI,local component installer
+L,LCM,Life Cycle Management
+L,LCN,local communication network
+L,LCO,language context object
+L,LCOS,Liquid Crystal On Silicon
+L,LCP,Link Control Protocol
+L,LCR," least cost routing 
+ Lifetime Clinical Record
+   Line Concentration Ratio
+  Local Continuous Replication"
+L,LCS,"  Liquid Cooling System 
+  Live 
+              Communications Server"
+L,LD,Laser Disc
+L,LDA, Local delivery agent
+L,LDAP,Lightweight Directory Access Protocol
+L,LDCM,LANDesk Client Manager
+L,LDIF,LDAP Data Interchange Format
+L,LDM,limited distance modem
+L,LDP,Label Distribution Protocol
+L,LDPC,low-density parity-check code
+L,LDR,Light Dependent Resistor
+L,LDS,logical data stream
+L,LDT,Lightning Data Transfer (Bus)
+L,LEAP,Lightweight Extensible Authentication Protocol 
+L,LED,light-emitting diode
+L,LEED,Leadership in Energy and Environmental Design
+L,LEL,"Link, Embed and Launch-to-edit"
+L,LEO,Low Earth Orbit 
+L,LER,Label Edge Router
+L,LF, Line Feed
+L,LFB,look-ahead-for-busy
+L,LFS,Linux From Scratch
+L,LGA,Land Grid Aray
+L,LGPL,Lesser General Public License (GNU)
+L,LID,local identifier
+L,LIDE,Light emitting diode In-Direct Exposure
+L,LIFO,"last in, first out"
+L,LINAC,Linear Accelerator
+L,LION,Lower Indian Ocean Network
+L,LIP, Loop Initialization Process
+L,LIPS,Logical Inferences Per Second
+L,LIS,Laboratory information system
+L,LKM,Loadable Kernel Modules
+L,LL,local loop
+L,LLC,Logical Link Control
+L,LLCC,X
+L,LLDP,Link Layer Discovery Protocol
+L,LLDP-MED ,Link Layer Discovery Protocol-Media Endpoint Discovery
+L,LLI," Low Latency Interrupts 
+ Lower Layer Interface"
+L,LLTD,Link Layer Topology Discovery
+L,LLU,local loop unbundling
+L,LMA,Lightspeed Memory Architecture
+L,LMDS,Local Multipoint Distribution Services
+L,LMP,Link Manager Protocol 
+L,LMPP,Lighttpd/MySQL/PHP/Python
+L,LMS,Learning Management System
+L,LNA," launch numerical aperture
+ Low Noise Amplifier"
+L,LNIB,"like new, in box"
+L,LNO,Loop Nest Optimization
+L,LNP,Local Number Portability
+L,LNS,L2tp Network Server
+L,LOB,Line-of-Business 
+L,LOC,Lines of Code
+L,LOCK,local object creator and killer 
+L,LODA,Lombardi On-Demand Assistance
+L,LOFS,LOopback File System
+L,LOM,LAN On Motherboard
+L,LOS," Line of Sight 
+ Loss of signal "
+L,LP,X
+L,LPA," Linear Power Amplifier
+ link pack area "
+L,LPAR,X
+L,LPB,Low Ping Bastard
+L,LPC," Linear Predictive Coding
+ Local Procedure Call"
+L,LPD,line printer daemon
+L,LPDA,Link Problem Determination Aid
+L,LPF," League for Programming Freedom
+ Low-Pass Filter"
+L,LPFM,low-power FM radio 
+L,LPI," lines per  inch
+ Linux Professional Insitute"
+L,LPP, Land Pre-Pits
+L,LPPL,Latex Project Public License
+L,LPR,line printer requester
+L,LPT, line print terminal 
+L,LPTV,low-power television 
+L,LPWA,Lucent Personalized Web Assistant
+L,LPX,Low Profile eXtension / Extended
+L,LQA,link quality analysis 
+L,LQSR,Link Quality Source Routing
+L,LR,Lightroom
+L,LRC," longitudinal redundancy check
+ Loop Resiliency Circuit"
+L,LRF,Little Rubber Feet
+L,LRN,Location Routing Number
+L,LRU,least recently used
+L,LS,Loop-Start Signaling
+L,LSA,Local Security Authority
+L,LSAP,Link Service Access Point
+L,LSAS,Local Security Authentication Server
+L,LSASS,Local Security Authority Subsystem Service
+L,LSB,Least Significant Bit
+L,LSH, Locality-Sensitive Hashing
+L,LSI,Large Scale of Integration
+L,LSM," Linux Software Map
+ Local Service Manager"
+L,LSP,License Service Provider
+L,LSR,local shared resource
+L,LSSGR,LATA Switching System Generic Requirements
+L,LTC,line traffic coordinator
+L,LTE," Lite Terminating Equipment
+ Long-Term Evolution"
+L,LTF,Leap To Frogans
+L,LTM,Local  Traffic  Managers 
+L,LTPA,Lightweight Third Party Authentication
+L,LTRAN,local transaction
+L,LTRS,Letters Shift
+L,LTS,Leaning Toothpick Syndrome
+L,LU,Logical Unit
+L,LU-LU,between two logical units
+L,LUF,lowest usable high frequency
+L,LUN,logical unit number
+L,LUNT,line unit network termination
+L,LUS,LookUp Service
+L,LUW,logical unit of work
+L,LV,X
+L,LVD,Low Voltage Differential
+L,LVDS,Low Voltage Differential Signaling
+L,LVM," Logical Volume Manager
+ Low Voltage Differential Signaling"
+L,LVOL,X
+L,LWL,long wavelength
+L,LWP,light-weight process 
+L,LZH,Lempel-Ziv-Haruyasu
+L,LZW,Lempel Ziv Welch
+L,Li-ion,X
+L,Lion,X
+L,Lisp,List Processor or List Processing
+L,Loran,long-range radio navigation
+L,l10n,localization
+L,laser,light amplification by stimulated emission of radiation
+M,M/L,Mobile-to-Land Traffic
+M,M2M,"  Manufacturer-to-Manufacturer 
+  model-to-model"
+M,MAA, Mail access agent
+M,MAC,message authentication code
+M,MADM,Multiple Appearance Directory Number
+M,MAE,Metropolitan Area Exchange and/or Ethernet
+M,MAGs,Multichannel access gateways
+M,MAID,massive array of idle disks
+M,MAN,Metropolitan Area Network
+M,MANET,Mobile Ad Hoc Network
+M,MAP," Manufacturing Automation Protocol
+ Mobile Application Part
+ Major Sync Point"
+M,MAPI,Messaging Application Programming Interface
+M,MAPP,Microsoft Active Protections Program
+M,MAPS,Mail Abuse Protection System
+M,MARS," Monitoring, Analysis and Response System
+ Multicast Address Resolution Server
+ Multivariate Adaptive Regression Splines"
+M,MAS,Modula-2 Algebra System
+M,MASER,Microwave Amplification by Simulated Emission of Radiation
+M,MAU," Medium Attachment Unit 
+ Multistation Access Unit"
+M,MAX,Master  Auxiliary  Correction
+M,MBR,Master Boot Record
+M,MBS,Maximum Burst Size 
+M,MBSA,Microsoft Baseline Security Analyzer
+M,MBT,MB Technology
+M,MCA," message channel agent 
+ Micro Channel Architecture"
+M,MCCM,multichannel campaign management 
+M,MCI,"Microwave Communications, Inc."
+M,MCIF,(IBM) Measured Capability Improvement Framework
+M,MCL,Mesh Connectivity Layer 
+M,MCM,Multi-Chip Module
+M,MCMP,Multi-channel Multi-point
+M,MCP," Microsoft Certified Professional 
+ Multi-chip package"
+M,MCR,Maximum Cell Rate
+M,MCSE,Microsoft Certified Systems Engineer
+M,MCU,multipoint control unit 
+M,MD2/4/5,Message Digest algorithm 2/4/5
+M,MDA," model-driven 
+          approaches 
+ Model-driven architecture "
+M,MDB,Message-Driven Beans
+M,MDF," Main Distribution Frame
+ Medium Density Fiberboard"
+M,MDI,Medium Dependent Interface
+M,MDIX,medium dependent interface crossover 
+M,MDM,"
+ master data management
+ Meter Data Management "
+M,MDP,Mobile Data Protection
+M,MDS,Master Data Service
+M,MDX,Multidimensional Expressions
+M,ME,Millenium Edition 
+M,MEMS,micro-electromechanical systems 
+M,MEO, Medium/Middle Earth Orbit
+M,MERVA,Message Entry and Routing with Interfaces to Various Applications
+M,MES," Manufacturing Execution Systems
+ Mobile Entertainment Service"
+M,MESA,Manufacturing Enterprise Solutions Association
+M,MFA,Multifactor authentication 
+M,MFC,Microsoft Foundation Class
+M,MFD,Multi Function Device
+M,MFM,modified frequency modulation
+M,MFP,multifunction product
+M,MFS,Multi-Function Security
+M,MFT," Managed file transfer
+ Master File Table"
+M,MGAS,mostly global address space 
+M,MGC,Media Gateway Controller
+M,MIA,Media Interface Adapter
+M,MIB,Management Information Base
+M,MIC, Message Integrity Check
+M,MICR,Magnetic Ink Character Recognition
+M,MID-II,Management Information DataBase II
+M,MIDI, Musical Instrument Digital Interface
+M,MIH,Master Information Hub
+M,MII," Medium Independent Interface
+ Microsoft/Intel/IBM"
+M,MILNET,Military Network
+M,MIME,Multipurpose Internet Mail Extensions
+M,MIMO,"Multiple Input, Multiple Output"
+M,MIP,"Multum in Parvum (Latin) means ""many in one"""
+M,MIPS,Millions of Instructions Per Second
+M,MIS,management information systems
+M,MISRA,Motor Industry Software Reliability                   Association
+M,MIT,Massachusetts Institute of Technology 
+M,MITM,Man In The Middle
+M,ML,Modular Line
+M,MLHG,Multi-Line Hunting
+M,MLT,Mechanized Loop Test 
+M,MMC," Microsoft Management Console
+ MutiMedia Card"
+M,MMDS," multi-megabit data service
+ Multipoint Microwave Distribution System"
+M,MMF,Multimode Fiberoptic Cable
+M,MMO,X
+M,MMOG,X
+M,MMORPG, Massive Multiplayer Online Role Playing Game
+M,MMR,Modified Modified Read
+M,MMS," Microsoft Media Server
+ Multimedia Messaging Service"
+M,MMU,Memory Management Unit
+M,MMX,multimedia extensions
+M,MNP,Microcom Networking Protocol
+M,MNS," managed network services
+ Master of Network Science"
+M,MO,Magneto-Optical 
+M,MOB,movable object 
+M,MODEM,modulator-demodulator
+M,MOE,Measures of Effectiveness
+M,MOF,Microsoft Operations Framework
+M,MOH,Music On Hold
+M,MOM,Microsoft Operations Manager
+M,MOO,"Mud, Object Oriented"
+M,MORPH,(from) metamorphosis
+M,MOS,Mean Opinion Score
+M,MOSFET,Metal-Oxide-Semiconductor Field-Effect Transistor
+M,MOSS,Microsoft Office SharePoint Server 
+M,MOTD,message of the day
+M,MOV,Merchant of Venice
+M,MP3,MPEG Layer 3
+M,MPAS,mostly private address space
+M,MPEG,Moving Picture Experts Group
+M,MPI,Master Patient Index
+M,MPIF,Multi-Processor Interconnect Facility
+M,MPL,"Mozilla Public License 
+Multi-schedule Private Line"
+M,MPLS,Multiprotocol Label Switching
+M,MPN,Microsoft Partner Network 
+M,MPOE,minimum point of entry
+M,MPP,massively parallel processing
+M,MPPE,Microsoft Point to Point Encryption
+M,MPS,managed print services
+M,MQ,message queue (formerly)
+M,MQT,materialized query table 
+M,MRAM,magnetoresistive random access memory
+M,MRI,Magnetic Resonance Imaging
+M,MRO,"maintenance, repair and operations"
+M,MRTG,Multi Router Traffic Grapher
+M,MRU,most recently used
+M,MS," Microsoft
+ Memory Stick"
+M,MSA," metropolitan statistical area
+ Mobile Sales Assistant 
+ Modular Smart Array"
+M,MSAP," Microsoft 
+          Application Platform"
+M,MSB,Most Significant Bit
+M,MSBD,Media Stream Broadcast Distribution
+M,MSC,Mobile Switching Center
+M,MSCS,Microsoft Cluster Server
+M,MSDB,main storage database
+M,MSDE,Microsoft Data Engine
+M,MSDN,Microsoft Developer Network
+M,MSDP,Multicast Source Directory Protocol
+M,MSE,Microsoft Security Essentials 
+M,MSEE,Microsoft Equation Editor
+M,MSI," Medium Scale Integration
+ Message Signal Interrupts
+ MicroSoft Installer
+ Micro Star International "
+M,MSIL,Microsoft Intermediate Language
+M,MSL,Mean Sea Level
+M,MSM,Mainframe Service Management 
+M,MSMQ,Microsoft Message Queuing
+M,MSN,Microsoft Network
+M,MSNP,Microsoft Notification Protocol
+M,MSO,multiple-system operator
+M,MSPP,MultiService Provisioning Platform
+M,MSS," Maximum Segment Size
+ mobile satellite service"
+M,MSSP,X
+M,MT-RJ,Mechanical Transfer Registered Jack
+M,MTA," Mail Transfer Agent
+ message transfer agent
+ Multi-Threaded Apartment"
+M,MTBF,X
+M,MTP,message transfer part
+M,MTS,Microsoft Transaction Server
+M,MTSO,Mobile Telephone Switching Office
+M,MTTF,X
+M,MTTR,mean time to repair
+M,MTU," maximum transfer unit
+ Maximum Transmission Unit"
+M,MUA,Mail User Agent
+M,MUD,Multi-User Dungeon or Dimension
+M,MULTOS,Multi-Application Operating System
+M,MUSE,Multi-User Simulated Environment
+M,MUX,Multiplexor
+M,MVNO,mobile virtual network operator
+M,MVS,Multiple Virtual Storage
+M,MW,middleware
+M,MWE,multiword expression
+M,MWI,Mobile Web Initiative
+M,MX record,mail exchange record
+M,MXF, Material Exchange Format
+M,Mac,Macintosh 
+M,Malware,Malicious Software
+M,MathML,Mathematics  Markup  Language
+M,Mb,megabyte
+M,Mbps,MegaBits Per Second
+M,MiB,mebibyte 
+M,MoBo,motherboard
+M,MoReq,Model Requirements for the Management of Electronic Records 
+M,MoST,mobile solutions terminal
+M,Moodle,Modular Object-Oriented Dynamic Learning Environment
+M,Mpps,millions of packets per second
+M,m-business,mobile business
+M,m-commerce,mobile commerce;
+M,mAH,milliampere-hour or milliamp-hour 
+M,mdisk,managed disk
+M,mrouter,multicast / router
+M,ms,millisecond
+M,multimedia ,multiple forms of media
+M,mutex,mutual exclusion
+N,NAB,Not A Bug
+N,NAC," network access control 
+ network attached connection"
+N,NACHA,National Automated Clearing House Association
+N,NAI,Network Associates Inc.
+N,NAK,Negative acknowledgement or not acknowledged
+N,NAM,Number Assignment Module
+N,NAMPS,Narrowband Advanced Mobile Phone Service 
+N,NANAE,News.Admin.Net-Abuse.Email
+N,NANOG, North American Network Operators Grou
+N,NANP,Identifies the electrical conditions on the circuit.
+N,NAP,Network Access Protection 
+N,NAPs,X
+N,NAS," network access server
+ Network Application Support
+ network-attached storage"
+N,NASDAQ,National Association of Securities Dealers Automated Quotations
+N,NASS,Network Attachment Subsystem 
+N,NASTRAN,NASA Stress Analysis
+N,NAT,Network Address Translation
+N,NAV,Norton Anti Virus
+N,NAVSTAR,NAVigation Satellite Timing and Ranging
+N,NBC,National Broadcasting Company
+N,NBSP,Non-Breaking Space
+N,NC,Network Computer
+N,NCC,Norton Control Center
+N,NCCM,Network Configuration and Change Management 
+N,NCI,Network Channel Interface 
+N,NCP,Network Control Program
+N,NCQ,Native Command Queuing
+N,NCp,Netware Core Protocol
+N,NDC,networked data center
+N,NDIS,Network Driver Interface Specification
+N,NDM,Network Data Mover
+N,NDMP,Network Data Management Protocol
+N,NDP,Neighbor Discovery Protocol
+N,NDS,Netware Directory Services
+N,NDr,Non-Delivery Receipt
+N,NEC," National Electric Code
+ NEC"
+N,NEMs,network equipment manufacturers 
+N,NES,Nintendo Entertainment System
+N,NETBIOS,network basic input/output system
+N,NEWS,Network Extensible Window System
+N,NEXT,Near-End Crosstalk
+N,NEl,Network Element Layer
+N,NF,X
+N,NFC, Near-field communication
+N,NFF," No Fault Found.
+ Notes Flat File"
+N,NFI,Near Field Imaging
+N,NFS,Network File System
+N,NFs,X
+N,NGC,Next Generation Communications 
+N,NGN,Next-Generation Network
+N,NGOSS,"next-generation operational support system 
+          solutions "
+N,NHIN,Nationwide Health Information Network
+N,NHM,Next Human Network
+N,NHRP,Next Hop Resolution Protocol
+N,NIC," Network Information Center
+ Network Interface Card"
+N,NICAM,Near Instantaneous Companded Audio Multiplex
+N,NICE,"Narrative, Immersive, Collaborative Environment"
+N,NID,Network Interface Device
+N,NIH,not invented here (syndrome)
+N,NILO,Network Interface LOader
+N,NIM,Network Interface Module
+N,NIP,Non-Impact Printer
+N,NIR, Near-Infrared 
+N,NIS," Network Information Service
+ Norton Internet Security"
+N,NIST,National Institute of Standards and Technology
+N,NJE,network job entry
+N,NLA,Network Location Awareness
+N,NLB,Network Load Balancing
+N,NLDF,national language dependent function
+N,NLM," NetWare Loadable Module
+ Network Lifecycle Management"
+N,NLO,net-liberated organization
+N,NLOS,Near Line OF Sight
+N,NLP,Natural language processing
+N,NLQ,Near Letter Quality
+N,NLS,National Language Support
+N,NLSP,Novell Link State Protocol 
+N,NLSR,Natural language speech recognition 
+N,NMC,Network Management Center 
+N,NMI,nonmaskable interrupt
+N,NMOS,Negative-channel Metal Oxide Semiconductor
+N,NMS,"Network Management Station
+Network Monitoring System
+"
+N,NNI,network-to-network interface
+N,NNTP,Network News Transfer Protocol
+N,NO,Normally Open
+N,NOC,Network Operations Center
+N,NOS,Network Operating System
+N,NPA,numbering plan area
+N,NPC,North Pacific Cable
+N,NPDA,Network Problem Determination Application
+N,NPI,National Provider Identifier
+N,NPL,Netscape Public License
+N,NPP,Network Payment Protocol
+N,NPSI,nonpartitioned secondary index 
+N,NPU,Network Processor
+N,NRM,normal response mode
+N,NRO,Number Resource Organization
+N,NRZ,Non Return to Zero
+N,NRZI,Non-Return to Zero Inverted
+N,NSA,Network Security Appliance
+N,NSFNET,National Science Foundation Network
+N,NSI,"Network Solutions, Inc"
+N,NSLU2,Network Storage Link for USB 2.0
+N,NSLookup,Name Server Lookup
+N,NSM,"Network and 
+          Security Manager"
+N,NSP,Network Service Provider
+N,NSR," nonshared resources
+ Non-Source Routed"
+N,NSS,Network Switching Subsystem
+N,NT,New Technology
+N,NTCIP,National Transportation Communications for Intelligent Transportation System Protocol
+N,NTE,Network Termination Equipment
+N,NTF,No Trouble Found
+N,NTFS,New Technology File System
+N,NTO,Network Terminal Option
+N,NTP,network time protocol
+N,NTRU,Number Theory is Really Useful
+N,NTSC,National Television System Committee
+N,NTT," network topology template
+ Nippon Telegraph and Telephone"
+N,NUI,Natural User Interfaces 
+N,NUMA,Non-Uniform Memory Access
+N,NVE,Network Visible Entity
+N,NZ-DSF,Non Zero-Dispersion-Shifted Fiber 
+N,NaN,Not a Number
+N,NetApp,Network Appliance
+N,Netizen,citizen of the Internet
+N,NiMH,Nickel Metal Hydride
+N,net-J,Internet disc jockey
+N,netbeui,NetBios Enhanced User Interface
+N,newbie,New beginner
+N,nicad,nickel-cadmium
+N,no-op,no operation
+N,ns,Nanosecond
+O,O.K.I.,Open Knowledge Initiative 
+O,O2,Object-Oriented
+O,O2O,Online To Offline
+O,OA&M,X
+O,OAAM,Oracle Adaptive Access Manager
+O,OADM,Optical Add/Drop Multiplexer
+O,OAM,object access method
+O,OAM&P,X
+O,OASIS,Organization for the Advancement of Structured Information Standards
+O,OAT,Outside Air Temperature
+O,OATH,Object-oriented Abstract Type Hierarchy
+O,OBDR,One Button Disaster Recovery
+O,OBEX,OBject EXchange
+O,OBI,Open Buying on the Internet
+O,OBIEE,Oracle BI Enterprise Edition
+O,OBM,On-board modem
+O,OBOE,Off-By-One Error
+O,OBU,On Board Unit 
+O,OC,overclock
+O,OC-N,Optical Carrier Level N
+O,OCIA,Optically Coupled Interface Adapter
+O,OCL,Object Constraint Language
+O,OCP," Open-Closed Principle
+ Oracle Certified Professional"
+O,OCR,Optical Character Recognition
+O,OCSP,"Online 
+          Certificate Status Protoco"
+O,OCTAVE,"Operationally Critical Threat, Asset, and Vulnerability Evaluation"
+O,OCX,OLE Custom Controls
+O,ODA,Open Document Architecture
+O,ODBC,Open Database Connectivity
+O,ODBO,OLE DB for OLAP
+O,ODC,Offshore development center
+O,ODD,optical disk drive
+O,ODF,OpenDocument 
+O,ODI,Open Data-link Interface
+O,ODM,Original Design Manufacturer
+O,ODMR,On-Demand Mail Relay
+O,ODOE,on demand operating environment
+O,ODP, Open Data Path
+O,ODPS,On Demand Packaging Service
+O,OEM," Oracle Enterprise Manager
+ Original Equipment Manufacturer"
+O,OEP,Outlook Exchange Protocol
+O,OFB,output feedback 
+O,OFCom,Office of Communications
+O,OFDM,X
+O,OFDMA,X
+O,OFM,Oracle Fusion Middleware 
+O,OFX,Open Financial Exchange
+O,OGL,Open Graphics Language
+O,OGSA,Open Grid Services Architecture
+O,OHG,Operators Harmonization Group 
+O,OIC,Oracle Incentive Compensation
+O,OID,Object Identifier
+O,OLAP,online analytical processing
+O,OLE,Object Linking and Embedding
+O,OLED,"organic light-
+          emitting diode"
+O,OLIC,online image copy
+O,OLIVE,On-Line Interactive Virtual Environment
+O,OLPC,One Laptop Per Child 
+O,OLTP,On-Line Transaction Processing
+O,OMA,Open Mashup Alliance
+O,OMG,Object Management Group
+O,OMH,order management hub 
+O,OML,Ontology Markup Language
+O,OMR,Optical Mark Reader
+O,OMSA,OpenManage Server Administrator
+O,OMT,Object Modeling Technique
+O,ONA,Organizational network analysis
+O,ONE,Open Net Environment
+O,OO,object-oriented or object orientation
+O,OOA&D,Object-oriented analysis and design 
+O,OOB,Out Of Band
+O,OODB,Object-Oriented Data Base
+O,OOF,Out Of Frame
+O,OOP,object-oriented programming
+O,OOSE,Object Oriented Software Engineering
+O,OOo,OpenOffice.org
+O,OPA," Open  Patent  Alliance
+ Oracle Policy Automation"
+O,OPML,Outline Processor Markup Language
+O,OPN,Oracle Partner Network
+O,OPOD,Oracle Procurement On Demand 
+O,OPS,Off Premise Station
+O,OPX,Off Premise Extension
+O,ORB,Object Request Broker
+O,ORBS, Open Relay Behaviour-modification                   System
+O,ORDB,Open Relay DataBase
+O,ORF,Open reading frame
+O,ORFS,Output Radio Frequency Spectrum
+O,ORM," Object/Relational Mapping
+ operational risk management"
+O,OS,Operating System
+O,OSA,Open System Architecture 
+O,OSAF,Open Source Applications Foundation
+O,OSD," On Screen Display
+ Open Software Description"
+O,OSDL,Open Source Development Lab
+O,OSF,Open Software Foundation
+O,OSGi,Open Services Gateway Initiative
+O,OSI,Open Systems Interconnection
+O,OSLC,"Open Services for Lifecycle 
+          Collaboration"
+O,OSMINE,Operations Systems Modification of Intelligent Network Elements
+O,OSN,output sequence number
+O,OSPF,Open Shortest Path First
+O,OSPM,Operating System Power Management
+O,OSS," Online Service System
+ Open source software"
+O,OSSIM, Open Source Security Information Management
+O,OST,Outside Surface Temperature
+O,OTA,Over The Air 
+O,OTDR,Optical Time Domain Reflectometer 
+O,OTFE,On-the-fly encryption
+O,OTM,Oracle Transportation Management
+O,OTN,Optical Transport Network
+O,OTP," One Time Password
+ one-time programmable
+ Open Trading Protocol"
+O,OTS,Over-the-Shoulder 
+O,OU,organizational unit
+O,OUI,Organizationally Unique Identifier 
+O,OVF,Open Virtualization Format
+O,OVP,online video platform
+O,OWA,Outlook Web Access
+O,OWASP, Open Web Application Security Project
+O,OWI,Optimized Warehouse Initiative 
+O,OWL,Web Ontology Language
+O,OXE, OmniPCX Enterprise 
+O,Opamp,Operational Amplifier
+O,OpenCL,Open Computing Language
+O,OpenGL,Open Graphics Library
+O,op-code,Operation Code
+P,P&S,Point And Shoot
+P,P-x,Pentium - (numbers)
+P,P2P,Peer to Peer
+P,P2SC, Power 2 Super Chip
+P,P3P,Platform for Privacy Preferences
+P,P4M,Pentium 4 Processor-M
+P,PA-QSA,Payment Application Qualified Security Assessor
+P,PABX,X
+P,PAC,Proxy Auto-Configuration
+P,PACE,"pressures, action, capabilities and enablers"
+P,PAD,Packet Assembler and Disassembler
+P,PAE,Physical Addressing Extension
+P,PAL," Phase Alternate Line
+ Processor Abstraction Layer
+ Publication Access List"
+P,PAM," Performance Acceleration 
+          Module
+ Port to Application Mapping
+ pluggable authentication module
+ pulse amplitude modulation"
+P,PAN,Personal Area Network
+P,PAP," Password Authentication Protocol
+ Printer Access Protocol"
+P,PARC,Palo Alto Research Center
+P,PASC,Portable Applications Standards Committee
+P,PASV,Passive (command)
+P,PAT," Performance Acceleration Technology
+ port address translation"
+P,PAVCL,Panda Antivirus Command-Line Scanner
+P,PB,PetaByte
+P,PBM,pharmacy benefits management
+P,PBN,policy-based networking
+P,PBX,private branch exchange
+P,PC,Personal Computer
+P,PCB,Printed Circuit Board
+P,PCCW,(formerly) Pacific Century CyberWorks
+P,PCD,Photo Compact Disc
+P,PCI,Peripheral Component Interconnect
+P,PCI DSS,Payment Card Industry Data Security Standard
+P,PCI-E,Peripheral Component Interconnect - Express
+P,PCL,Printer Command Language
+P,PCM, Pulse Code Modulation
+P,PCMCIA,Personal Computer Memory Card International Association
+P,PCR,Peak Cell Rate
+P,PCRE,Perl-compatible regular expressions
+P,PCS,Personal Communications Service
+P,PCT,Private Communication Technology
+P,PDA,Personal Digital Assistant
+P,PDB,Program DataBase
+P,PDC," Personal digital cellular
+ Primary Domain Controller"
+P,PDE,possible duplicate emission
+P,PDF,Portable Document Format
+P,PDH,Plesiochronous Digital Hierarchy
+P,PDL,Pure Dumb Luck
+P,PDM,Pure Digital Monitor
+P,PDN,public data network
+P,PDP,Policy Decision Point
+P,PDQ,Product Data Quality 
+P,PDS,partitioned data set
+P,PDU,Protocol Data Unit
+P,PEAP,Protected Extensible Authentication Protocol
+P,PEARL,Process and Experiment Automation Realtime Language
+P,PEF, Preferred Executable Format
+P,PEM,Privacy Enhanced Mail 
+P,PEP," Policy Enforcement Point
+ program entry procedure"
+P,PERT,Program Evaluation and Review Technique
+P,PET,Personal Electronic Transactor
+P,PF Key,Program Function Key
+P,PFM,personal financial management
+P,PFS,Public-Key Forward Secrecy
+P,PGI,"Premiere Global Services, Inc. "
+P,PGP,Pretty Good Privacy
+P,PGR,presentation graphics routines 
+P,PHB,Per-Hop-Behavior
+P,PHI,Protected Health Information
+P,PHP,PHP Hypertext Preprocessor (originally Personal Home Page)
+P,PHS,Personal Handy Phone System
+P,PHY,Physical Layer
+P,PHZIP,Phil Katz's ZIP
+P,PIC,Position-Independent                   Code
+P,PID," Process ID
+ Proportional Integral Derivative"
+P,PIE,"Presence, Identity and Edge"
+P,PII,personally identifiable information
+P,PIM," Personal Information Manager
+ Protocol Independent Multicast"
+P,PIN,personal identification number
+P,PINE,Program for Internet News and E-Mail
+P,PIO,Programmed Input/Output
+P,PIO Mode,Data Transfer Rate (MBps) 
+P,PIPE,Private Internet Protocol Encapsulation
+P,PIPs,process integration packs
+P,PIX,Private Internet eXchange
+P,PKCS,Public-Key Cryptography Standards
+P,PKI,public-key infrastructure
+P,PL,Procedural Language
+P,PL/1,Programming Language 1
+P,PLA,Programmable Logic Array
+P,PLC," PowerLine Communication
+ product life cycle "
+P,PLCP,Physical Layer Convergence Protocol
+P,PLD,Programmable Logic Device
+P,PLL,Phase Lock Loop
+P,PLM,product life cycle management 
+P,PLMN,public land mobile network
+P,PLOGI,port login
+P,PLPA,pageable link pack area
+P,PMD,Physical Media Dependent
+P,PMDB,performance management database 
+P,PME,Power Management Event
+P,PMI,"Portable Management Interface
+Project Management InstitutePrivilege Management Infrastructure
+Product and manufacturing information
+"
+P,PMM,Post Memory Manager
+P,PMML,Predictive Model Markup Language
+P,PMO,Project management office
+P,PMR," Perpendicular Magnetic Recording
+ Private Mobile Radio "
+P,PMSM,permanent magnet synchronous motors
+P,PNG,Portable Network Graphics
+P,PNP,Personal Network Platform
+P,PNRP,Peer Name Resolution Protocol
+P,POC," Proof of Concept
+ Push-to-talk Over Cellular "
+P,POD," Proof of Deposit
+ Publishing on demand"
+P,POLP,principle of least privilege
+P,PON,passive optical networking 
+P,POP," Point of Presence
+ Post Office Protocol
+ protected object policy"
+P,POP3,Post Office Protocol v3
+P,POS,point of sale
+P,POSIX, Portable Operating System Interface for UNIX
+P,POST,power-on self test
+P,POTS,Plain Old Telephone Service 
+P,POWER,Performance Optimization With Enhanced Risc
+P,POX,plain old XML
+P,PPC,Pay-Per-Click
+P,PPD,Postscript Printer Description 
+P,PPE,PowerPC Processor Element 
+P,PPM," Parts  Per Million
+ project portfolio management"
+P,PPN,Primary Port Network
+P,PPP," Point to Point Protocol
+ Publicâprivate partnership"
+P,PPPoE,Point-to-Point Protocol over Ethernet
+P,PPRC,Peer to Peer Remote Copy
+P,PPTP,Point-to-Point Tunneling Protocol
+P,PPU,PowerPC Processor Unit
+P,PQA,Palm Query Application
+P,PRADO,PHP Rapid Application Development Object-oriented
+P,PRC,Primary Reference Clock
+P,PRI,Primary Rate Interface
+P,PRINCE,Projects in Controlled Environments
+P,PROM,Programmable ROM
+P,PRPQ,programming request for price quotation 
+P,PS,"PlayStationPostScript
+Photoshop"
+P,PS/2,personal system/2
+P,PSA,"professional service 
+          automation "
+P,PSD,PhotoShop Drawing
+P,PSIP,Program and Systems Information Protocol
+P,PSK,phase shift keying
+P,PSLC,Parallel Sysplex License Charge
+P,PSN," Packet Switch Node
+ Playstation Network
+ Processor Serial Number"
+P,PSP," Personal Software Process
+ PlayStation Portable"
+P,PSPs,print service providers
+P,PSS,Print SubSystem
+P,PSTN,public switched telephone network
+P,PTF,Print To Fax
+P,PTR record, Pointer record
+P,PTT," Push To Talk
+ Postal, Telephone, and Telegraph"
+P,PTTs,"Post, telegraph, and telephone authorities"
+P,PTZ,pan-tilt-zoom
+P,PUMA," Privileged user monitoring and auditing
+ Protected User Mode Audio"
+P,PUP,Potentially unwanted program
+P,PUT,program update tape
+P,PVC," permanent virtual circuit
+ Polyvinyl Chloride"
+P,PVR,personal video recorder
+P,PVST,Per-VLAN Spanning Tree
+P,PVV,PIN verification value
+P,PWM,Pulse width modulation
+P,PWR,PoWeR
+P,PWS, Personal Web Server (or Peer Web Services )
+P,PXE,Preboot eXecution Environment
+P,PaRM,Patient relationship management
+P,PaaS,platform-as-a-service 
+P,Perl,Practical Extraction and Report Language
+P,PiB,pebibyte 
+P,Picnic,"Problem In Chair, Not In Computer"
+P,PnP,Plug and Play
+P,PoE,Power Over Ethernet
+P,p2mp,point-to-multipoint
+P,pNFS,parallel Network File System
+P,pel,X
+P,pgSQL,PostgreSQL 
+P,ping,Packet Internet or Inter-Network Groper
+P,pixel,X
+P,pog.com,Play Online Games
+P,ps,Picosecond
+Q,QA,Quality Assurance
+Q,QAM,quadrature amplitude modulation
+Q,QAT,Quantity Above Threshold Indicator 
+Q,QB," QuickBASIC
+ Quickbooks"
+Q,QBDG,Query Based Distribution Group
+Q,QBDL,Query Based Distribution List
+Q,QBL,Query By Example
+Q,QCIF,Quarter Common Intermediate Format
+Q,QD,Queuing Delay
+Q,QDF,Quicken Data File
+Q,QDOS,Quick And Dirty Operating System
+Q,QDR,Quad Data Rate
+Q,QEMM,Quarterdeck Expanded Memory Manager
+Q,QFE,Quick Fix Engineering 
+Q,QFP,Quoted For Permanence
+Q,QI,Query Interface
+Q,QIF,Quicken Interchange Format
+Q,QIP,quality improvement process
+Q,QIX,NASDAQ Information Exchange protocol
+Q,QLLC,Qualified Logical Link Control protocol
+Q,QMF,Query Management Facility
+Q,QMS,Quality Micro Systems
+Q,QName,qualified name
+Q,QP,Quantum Programming
+Q,QPM,QoS Policy Manager
+Q,QPS,Queries-per-second
+Q,QPSK,Quadrature Phase-Shift Keying
+Q,QR code,Quick Response code
+Q,QSA,Qualified Security Assessor
+Q,QSIG,Q signaling
+Q,QT,QuickTime
+Q,QTM,Quadratic Texture Mapping
+Q,QTSS, QuickTime Streaming Server
+Q,QTVR,QuickTime Virtual Reality
+Q,QTW,QuickTime for Windows
+Q,QVGA,Quarter Video Graphics Array
+Q,QXGA, Quad ((or Quantum) eXtended Graphics Array
+Q,QoE,quality of experience
+Q,QoS,quality of service
+Q,Quagi,quad and Yagi 
+Q,qic,Quarter-Inch Cartridge
+R,R&D,research and development
+R,R-NE,remote-network element 
+R,R-UIM,removable user identity module
+R,RAB," Raid Advisory Board
+ Reverse-Link Activity Bit "
+R,RAC,Real Application Cluster
+R,RACF,Resource Access Control Facility
+R,RACH,Random Access Channel
+R,RAD," radiation absorbed dose
+ Rapid Application Development"
+R,RADA,random access discrete address
+R,RADCAB,Relevancy Appropriateness Detail Currency Authority Bias 
+R,RADIUS,Remote Authentication Dial-In User Service
+R,RADSL,Reverse ADSL
+R,RADVD, router advertisement daemon
+R,RAI,remote alarm indication
+R,RAID,Redundant Array of Independent Disks
+R,RAM,Random Access Memory
+R,RAMDAC," Random Access Memory Digital to 
+          Analog Converter"
+R,RAN,Radio Access Network
+R,RAPI,"Rsvp Application Programming 
+          Interface"
+R,RARE," Reseaux AssociÃ©s pour la Recherche 
+          EuropÃ©enne"
+R,RARP,Reverse Address Resolution Protocol
+R,RAS," Registration, Admission, Status 
+ remote-access server (services)
+ Row Address Select
+ Row Address Strobe
+ Remote Announcing System"
+R,RAT,Remote Administration Tool
+R,RBA,Run Book Automation 
+R,RBAC,role-based access control
+R,RBL,Real-time Black-hole List or Real-time Block List
+R,RBOC,Regional Bell Operating Company
+R,RC,Release Candidate
+R,RC2/4/5,Rivest Cipher 2/4/5
+R,RCA,Radio Corporation of America (cables)
+R,RCC,radio common carrier
+R,RCM,Revision and Configuration Management
+R,RCP,Rich Client Platform
+R,RCS,Revision Control System
+R,RCU, Rapid Cloning Utility 
+R,RDAC,Redundant Disk Array Controller
+R,RDBA,Remote Database Access
+R,RDBMS,relational database management system
+R,RDDL,"Resource Directory Description 
+          Language"
+R,RDF," radio direction-finding 
+ Resource Description Framework"
+R,RDI,remote defect indication
+R,RDL,Report Definition Language
+R,RDM,Remote Deployment Manager
+R,RDP," Remote Desktop Protocol 
+ Router Discovery Protocol"
+R,RDR,Rate of Defect Recurrence
+R,RDT,remote digital terminal 
+R,RED," Random Early Detection
+ Reputation Enabled Defense"
+R,REG,Range Extender with Gain
+R,REJ,Reject. In communications
+R,REL,Rights Expression Language
+R,RELAX,REgular LAnguage description for Xml
+R,REN,Ringer Equivalency Number
+R,RES,Robots Exclusion Standard
+R,REST,REpresentational State Transfer
+R,RETAIN,Remote Technical Assistance and Information Network
+R,REVS,Rapid Exchange of Virus Samples list. 
+R,REXX,Restructured EXtended eXecutor
+R,RF,Radio frequency
+R,RFB,Remote Framebuffer 
+R,RFC," radio-frequency choke
+ Request For Comments"
+R,RFCOMM,Radio Frequency Communication
+R,RFI,remote failure indication
+R,RFID,radio frequency identification
+R,RFMD,RF Micro Devices
+R,RFP,Request For Proposal
+R,RFS,X
+R,RFT," Request For Technology
+ revisable-form text "
+R,RFU,X
+R,RGB,Red/Green/Blue
+R,RGMP,Router-port Group Management Protocol
+R,RHCE,Red Hat Certified Engineer
+R,RHCS,Red Hat Cluster Suite
+R,RHEL,Red Hat Enterprise Linux
+R,RHR,radio horizon range 
+R,RHSBL,Right-Hand Side Blacklist
+R,RIA,Rich Internet Application
+R,RIM," Reference Information Model
+ Research In Motion"
+R,RIMM,Rambus In-Line Memory Module
+R,RIP," raster image processor
+ Routing Information Protocol"
+R,RIPE,RÃ©seaux IP EuropÃ©ens 
+R,RIR,regional Internet registry
+R,RISC, Reduced Instruction Set Computer
+R,RJ11,Registered Jack 11
+R,RJ45,Registered Jack 45
+R,RJE,Remote Job Entry
+R,RLC,Radio Link Control 
+R,RLE,run-length encoding
+R,RLL,Run Length Limited
+R,RLP,Radio Link Protocol
+R,RMA," rate monotonic analysis
+ Return Materials Authorization"
+R,RMC,"  Raptor Management Console
+ Resource Monitoring and Control"
+R,RME," Rack Mount Equipment
+ resource model engine "
+R,RMI,Remote Method Invocation
+R,RMON,Remote Monitoring
+R,RMS," Record Management            System
+ Right Management Service 
+ Root Mean Square"
+R,RMU,Rack Mount Unit
+R,RNA," Ribonucleic acids
+ Ring No Answer"
+R,RNC,Radio Network Controller
+R,RNI, Raw Native Interface
+R,RNR,receive not ready
+R,ROA,recognized operating agency
+R,ROADM,reconfigurable optical add-drop multiplexer
+R,ROD,record oriented data 
+R,RODM,Resource Object Data Manager
+R,ROI,Return on Investment
+R,ROKSO,Register of Known Spam Operations
+R,ROLR,receive objective loudness rating 
+R,ROM," read-only memory
+ Report Object Model"
+R,ROOM,Real-Time Object-Oriented                                                     Modeling
+R,ROP,Raster Operation
+R,ROR,remote outdoor router
+R,ROS,run of site
+R,ROSE,Remote Operations Service Element
+R,RP-SMA,Reverse Polarity SubMiniature version A
+R,RP-TNC,Reverse Polarity Threaded Neill-Concelman 
+R,RPA, Recursive  Pyramid  Algorithm
+R,RPC,Remote Procedure Call
+R,RPF,Reverse Path Forwarding
+R,RPG," Report Program Generator
+ role-playing game"
+R,RPI,Rockwell Protocol Interface
+R,RPL," Remote Program Load
+ Requested Privilege Level
+ Recognized Prior Learning"
+R,RPM," Rapid Predictive Modeler 
+ Red Hat Package Manager
+ Revolutions Per Minute
+ Route Processor Module"
+R,RPN,Reverse Polish Notation
+R,RPO,recovery point objective
+R,RPP,receiving party pays
+R,RPR,Resilient packet ring
+R,RPT,radio personal terminal 
+R,RQN,Real-Quick Newsletter
+R,RR," Register to Register
+ repeatable read"
+R,RRI,Reverse Rate Indicator
+R,RRPP,Rapid Ring Protection Protocol
+R,RRS,X
+R,RR_TOV,resource recovery timeout value
+R,RS," Recommended Standard
+ Reed-Solomon
+ Remote Scripting
+ RuneScape
+"
+R,RS-MMC,Reduced Size Multi-Media Card
+R,RSA," Remote Supervisor Adapter
+ register save area 
+ Rivest, Shamir and Adleman
+ rural service area"
+R,RSBAC,Rule Set Based Access Control 
+R,RSCT,Reliable Scalable Cluster Technology 
+R,RSIP,Realm Specific Internet Protocol
+R,RSL,received signal level
+R,RSM," Relational Storage Manager
+ Remote Storage Management
+ Route Switch Module"
+R,RSN,Real Soon Now
+R,RSPAN,Remote Switched Port Analyzer
+R,RSS,"  RDF Site Summary / Really Simple Syndication
+  Receive Side Scaling
+  Relay Spam Stopper"
+R,RSSI,Relative Signal Strength Indicator
+R,RSU,"  Recommended Service Upgrade
+  remote switching unit "
+R,RSVP,Resource Reservation Protocol
+R,RTC,Rich Thin Client
+R,RTD,Real-Time  Decisions 
+R,RTE," real-time enterprise
+ round-trip engineering"
+R,RTF,Rich Text Format
+R,RTG,"  Radioisotope Thermoelectric Generators
+  Receive/transmit Transition Gap"
+R,RTGS,Radioisotope Thermoelectric Generators
+R,RTK,Real Time Kinematic
+R,RTM,Read The Manual
+R,RTMP,routing table maintenance protocol
+R,RTO,recovery time objective
+R,RTP, Real-Time Transport Protocol
+R,RTS,request to send 
+R,RTSC,Read the Source Code
+R,RTSE,Reliable Transfer Service Element
+R,RTSP,Real Time Streaming Protocol
+R,RTT," Radio Transmission Technology
+ Real-Time Technology
+ round-trip time"
+R,RTTY,radio teletypewriter
+R,RTU," Remote Terminal Unit 
+ Right To Use"
+R,RUOW,remote unit of work
+R,RUP,Rational Unified Process
+R,RUS,Recipient Update Service
+R,RVI,Reverse Interrupt
+R,RVLC,Reversible Variable Length Code
+R,RW,Read Write
+R,RWI,radio and wire integration 
+R,RWM,Read-Write Memory
+R,RWP,Remote Write Protocol
+R,RWU,remote wake-up
+R,RX,X
+R,RXD,X
+R,R_A_TOV,resource allocation timeout value
+R,ReGS,Reporting Grid Services
+R,RePDV,Reputation Digital Vaccine 
+R,Rel,Recorder element
+R,Res,resolution 
+R,RoHS,Restriction of Hazardous Substances
+R,RoR,Ruby on Rails 
+R,rDNS,Reverse DNS
+R,racon,radar beacon
+R,rcp,Remote copy
+R,rlogin,remote login
+R,rot13,rotate 13
+R,rsh,Remote Shell Protocol
+R,rtPS,Real-Time Polling Service
+S," Service Advertising Protocol
+ Secondary Audio Program
+ Systeme, Anwendungen, Produkte"," Novell's Protocol provides information about                        what servers are available on the network. 
+ An NTSC audio channel used for auxiliary transmission, such as foreign language broadcasting or teletext. 
+ A german company that produces the leading suite of client-server business software (""Systems, Applications and Products in data processing""). www.sap.com"
+S,S+,Security+
+S,S-HTTP,Secure Hypertext Transport Protocol
+S,S-Video, Super-Video / Sony Video
+S,S/N,Signal-to-Noise
+S,S/PDIF,Sony/Philips Digital Interface
+S,S/W,X
+S,S3,Simple Storage System
+S,SA,"System Administrator
+Source-Active"
+S,SAA,Systems Application                                                   Architecture
+S,SAD,Security Association Database
+S,SAIC,Science Applications International Corporation
+S,SALT,Speech Application Language Tags
+S,SAM," security account manager
+ Serial Access Memory
+ software asset management"
+S,SAML,Security Assertion Markup Language
+S,SAN,X
+S,SANS," SysAdmin, Audit, Network, Security 
+  System Administration, Networking and Security institute"
+S,SANs,X
+S,SAP,Service Access Point
+S,SAR,segmentation and reassembly
+S,SAS," Secure Attention Sequence
+ Serial Attached SCSI
+ single attachment station
+ Statistical Analysis System"
+S,SAS 70,Statement on Auditing Standards No. 70
+S,SASL, Simple Authentication and Security Layer
+S,SAST,Static application security testing
+S,SATA,Serial ATA
+S,SAV,Symantec AntiVirus
+S,SAX,Simple API for XML
+S,SB,Sound Blaster
+S,SBAS, Satellite-Based Augmentation System
+S,SBB, Storage Bridge Bay
+S,SBC," Session Border Controller
+ single-board computer"
+S,SBCS," single-byte character set
+ Smart Business Communications 
+                  System"
+S,SBL,Spamhaus Block List
+S,SBLOG,spam blog
+S,SBM,Subnet Bandwidth Manager
+S,SBS,Small Business Server
+S,SBSD,Slow But Sure Death
+S,SCA,Service component architecture
+S,SCADA,Supervisory Control And Data Acquisition
+S,SCAI,Switch-to-Computer Applications Interface
+S,SCAM,SCSI Configured Auto-Magically
+S,SCCM,Software change and configuration  management
+S,SCCP,Signaling Connection and Control Part
+S,SCCS,Source Code Control System
+S,SCM," Service Control Manager 
+ Specifc Coverage Metric
+ Source Code Management
+ Source configuration management
+ supply chain management"
+S,SCO,Santa Cruz Operation
+S,SCOM,System Center Operation Manager
+S,SCORM,Sharable Courseware Object Reference Model
+S,SCP," Secure Copy
+ Service/Signal Control Point"
+S,SCPC,single channel per carrier
+S,SCR,Sustainable Cell Rate
+S,SCSI,Small Computer System Interface
+S,SCSL,Sun Community Source Licensing
+S,SCTP, Stream Control Transmission Protocol
+S,SCWCD,Sun Certified Web Component Developer
+S,SD," Sales and Distribution 
+ Secure Digital
+ Span Destination"
+S,SDDL,Security Descriptor Definition Language 
+S,SDDM,source distributed data manager 
+S,SDDS,Sony Dynamic Digital Sound
+S,SDEP,sequential dependent segment
+S,SDFI,Secure Digital Forensic Imaging
+S,SDH," Synchronous Data Hierarchy
+ Synchronous Digital Hierarchy"
+S,SDK,software development kit
+S,SDLC," Software development life cycle
+ Synchronous Data Link Control"
+S,SDLT,Super Digital Linear Tape
+S,SDMA,spatial division multiple access
+S,SDN," Secondary Directory Number
+ Software Defined Network"
+S,SDO,Service Data Objects
+S,SDP, Session Description Protocol
+S,SDR,software-defined radio
+S,SDRAM,Synchronous Dynamic Random Access Memory
+S,SDS,Sudden Death Syndrome
+S,SDSL,Symmetric Digital Subscriber Line
+S,SDTV,Standard Definition television 
+S,SDVO,Serial Digital Video Output
+S,SDX,Storage Data Acceleration
+S,SE,secure element
+S,SEA-ME-WE,Southeast Asia-Middle East-Western Europe 2
+S,SEA-ME-WE 3,Southeast Asia-Middle East-Western Europe 3
+S,SEAL,simple and efficient AAL
+S,SEAS,SaaS-enabled application server
+S,SEC,Siemens Enterprise Communications
+S,SECAM,Sequential Couleur a Memoire
+S,SEG,secure e-mail gateway
+S,SEM,Strategic Enterprise Management
+S,SEN,Siemens Enterprise Communications 
+S,SEO,Search Engine Optimization
+S,SERK,Server Extensions Resource Kit
+S,SERP,Search Engine Results Page
+S,SES," SecureEasySetup
+ Severely Errored Seconds"
+S,SET,Secure Electronic Transaction
+S,SETI,Search of Extraterrestrial Intelligence
+S,SEX,Sun Users' Group & elsewhere 
+S,SFA,Sales Force Automation
+S,SFD,Start-of-Frame Delimiter
+S,SFF,Small Form Factor
+S,SFP,Small Form-factor Pluggable
+S,SFTP,"SSH  File Transfer Protocol
+(or Program)"
+S,SFU, Services For Unix
+S,SGC, Server Gated Cryptology
+S,SGF,Structured Graphics Format
+S,SGI,Silicon Graphics Incorporated
+S,SGML,Standard Generalized Markup Language
+S,SGRAM,Synchronous Graphics Random Access memory 
+S,SGSN,Service GPRS Support Node
+S,SHA,Secure Hash Algorithm
+S,SI," system integration
+ system integrator"
+S,SID,Security Identifier 
+S,SIEM (SEM & SIM),Security Information and Event Management
+S,SIIA, Software & Information Industry Association
+S,SIIT,Stateless Ip/Icmp Translation algorithm
+S,SIL,Safety Integrity Level 
+S,SIM," Security Information Management
+ subscriber identity module"
+S,SIMD,Single Instruction Multiple Data
+S,SIMM,single in-line memory module
+S,SIP,Session Initiation Protocol
+S,SIPP,Stable Image Platform Program
+S,SIS," Single Instance Store
+ student information system"
+S,SISMAPI,Siebel Internet Session Network API
+S,SITA,Societe Internationale de Telecommunications Aeronautiques
+S,SIU,smallest installable unit
+S,SIX,Shared with Intent eXclusive
+S,SKMS,Service Knowledge Management System
+S,SKU,Stock Keeping Unit
+S,SL,Scientific Linux 
+S,SLA,Service Level Agreement
+S,SLI,Scalable Link Interface
+S,SLIC,Subscriber Line Interface Card
+S,SLIP,Serial Line Internet Protocol
+S,SLM,service level management
+S,SLP DA, Service Location Protocol Directory Agent
+S,SLR,Scalable Linear Recording
+S,SLS,Softlanding Linux System
+S,SLSI,Super Large Scale of Integration
+S,SM/SI,Social Mining and Social Intelligence
+S,SMART,Self-Monitoring Analysis And Reporting Technology
+S,SMASH,"Simple, Many And Self-Healing"
+S,SMATV,satellite master antenna television
+S,SMB,Server Message Block
+S,SMBP, Server Message Block Protocol
+S,SMD,Storage Module Device
+S,SMDR,station message detail recording 
+S,SMDS,Switched Multimegabit Data Service
+S,SMF,Semantic Modelling Format
+S,SMI,Structure of Management Information
+S,SMLT,Split Multi-Link Trunking
+S,SMP," Simple Management Protocol
+ Symetric MultiProcessing"
+S,SMS,"  Security Management System
+ Short Message Service
+ Systems Management Server "
+S,SMSC," Short Messaging Service Center
+ Smart Mixed-Signal Connectivity"
+S,SMSI,Simplified Message Service Interface
+S,SMTP,Simple Mail Transfer Protocol
+S,SMiShing ,SMS phishing
+S,SN,Sequence Number
+S,SNA," Social Network Analysis
+ Systems Network Architecture"
+S,SNAP,Sub-Network Access Protocol 
+S,SNC,Supply Network Collaboration 
+S,SNI,Switch Node Interface
+S,SNIPS,System & Network Integrated Polling Software
+S,SNMP,Simple Network Management Protocol
+S,SNS,social networking site
+S,SOA,"Service Oriented Architecture
+Start of Authority"
+S,SOAP,Simple Object Access Protocol
+S,SOC," Security Operation Centre
+ Separation Of Concerns"
+S,SOCKS, SOCKetS
+S,SODIMM,Small Outline Dual Inline Memory Module
+S,SOH,Start Of Header
+S,SOM,Self-Organizing Map
+S,SONET,Synchronous Optical Network
+S,SONIC,"Science Of Networks In Communities
+SAC On-Line Interactive Controller"
+S,SORBS,Spam and Open Relay Blocking System
+S,SOS,"Sophisticated Operating System
+Symbian Operating System
+Secure Object Store"
+S,SOW,statement of work
+S,SOX,Sarbanes-Oxley Act
+S,SP," Service-Packs
+ storage processor"
+S,SPAN,Switched Port Analyzer
+S,SPARC,Scalable Processor ARChitecture
+S,SPB,Stored Procedure Builder
+S,SPC,stored program control 
+S,SPD," Serial Presence Detect
+ System Products Division"
+S,SPE," Synergistic Processor Element 
+ System Policy Editor"
+S,SPF," Sender Policy Framework
+ Shortest Path First"
+S,SPI," Serial Peripheral                   Interface
+ Stateful Packet Inspection "
+S,SPICE,Simple Protocol for Independent Computing Environment
+S,SPIM,Spam over Instant Messaging 
+S,SPIT,Spam over   Internet Telephony
+S,SPL," Sender Policy Framework 
+ Sound Pressure Level"
+S,SPM," Statistical Packet Multiplexing
+ supplier performance management"
+S,SPML,Service Provisioning Markup Language 
+S,SPOF,Single point of failure
+S,SPOI,Signaling Point Of Interface
+S,SPOT,Smart Personal Objects Technology
+S,SPREAD,"Systems Programming, Research, Engineering And Development"
+S,SPSS,Statistical Package for the Social Sciences
+S,SPU,Synergistic Processor Unit 
+S,SPX,Sequenced Packet Exchange
+S,SQL,Structured Query Language
+S,SQL PL,SQL procedural language
+S,SQR,Security to Quality Defect Ratio
+S,SR, Speech Recognition
+S,SR-IOV,Single-root I/O virtualization standards
+S,SRAM,static random access memory
+S,SRAT,Static Resource Affinity Table
+S,SRGS,Speech Recognition Grammar Specification
+S,SRL,Singing Return Loss 
+S,SRM,storage resource management
+S,SRS,Shared Registry Server
+S,SRT," Source Routing Transparent
+ (formerly) Souris River Telecommunications"
+S,SRV,Service records
+S,SS7,Signaling System 7
+S,SSA," Social Security Administration
+ Survivable Systems Analysis"
+S,SSAP,Source Service Access Point
+S,SSB,sequential store buffer 
+S,SSD,Solid-State Drive
+S,SSE," Simple Sharing Extension
+ Streaming Simd Extensions"
+S,SSH,Secure Shell
+S,SSI," Server-Side Includes
+ Small Scale Integration "
+S,SSID,Service Set identifier 
+S,SSIM,Symantec Security Information Manager
+S,SSL,Secure Sockets Layer
+S,SSLE,sequential systems of linear equations
+S,SSMP,Simple Screen Management Protocol
+S,SSO," single sign-on
+ System Security Officer "
+S,SSSCE,Short Self-Contained Correct (or Compilable) Example
+S,STA,Single Threaded Apartment
+S,STEP,Standard for the exchange                                                   of product
+S,STK, Satellite ToolKit
+S,STM,Synchronous Transport Module
+S,STOCK,"Strategic and Operational 
+              Customer Knowledge"
+S,STP," shielded twisted pair
+ Soa Tools Platform
+ Spanning Tree Protocol 
+ Straight Through Processing
+ Switching Transfer Points or Single Transfer Points"
+S,STS,Security Token Service
+S,STT,Secure Transaction Technology
+S,STUN,Session Traversal Utilities for NAT
+S,STX,Start Of Text 
+S,SUA,Single User Account
+S,SUS,Software Update Services
+S,SUT,System Under Test
+S,SVBR,Semantics of Business Vocabulary and Business Rules
+S,SVC,Switched Virtual Circuit
+S,SVD,Secondary Virtual Disk
+S,SVG,Scalable Vector Graphics 
+S,SVGA,Super Video Graphics Array
+S,SVPCo,Small Value Payments Co.
+S,SW,X
+S,SWAP,Shared Wireless Access Protocol
+S,SWAT,Samba Web Administration ToolSolutions with Advanced Technologies
+S,SWIFT,Society for Worldwide Interbank Financial Telecommunication
+S,SWIM,System Wide Information Management 
+S,SWL,short wavelength
+S,SWOP,Specifications for Web Offset Publications
+S,SWT,Standard Widget Toolkit
+S,SYSVOL,System Volume
+S,SaaS,software as a service
+S,Sat Nav,Satellite navigation
+S,ScTP,screened twisted pair 
+S,SiS,Silicon Integrated Systems
+S,Sig Block,signature block
+S,Simulcast,simultaneous broadcast
+S,SoIP,Storage over IP
+S,Sphairon ,"Sphere, luminary, global and Elektron, Technology (vision)"
+S,Sync,Synchronisation 
+S,Sysop,System Operator
+S,syslog,system logging 
+T,T1, 
+T,T2, 
+T,T2L,TRANSISTOR-TRANSISTOR LOGIC 
+T,T3, 
+T,T4, 
+T,T5, 
+T,TACACS,Terminal Access Controller Access Control System 
+T,TAE,text analysis engine
+T,TAO,Track at Once
+T,TAPI,Telephony Application Programming Interface
+T,TAXI,Transparent Asynchronous Transmitter/Receiver Interface
+T,TB,TeraByte
+T,TBR,Technology Business Research
+T,TCA,Transaction Cost Analysis
+T,TCAP,Transaction Capabilities Application Part
+T,TCB,trusted computing base 
+T,TCG,Trusted Computing Group
+T,TCO,total  cost of ownership
+T,TCP," Test Coordination Procedure
+ Transmission Control Protocol"
+T,TCQ,Tagged Command Queuing
+T,TCS," Tata Consultancy Services
+ Telecommunications Systems"
+T,TCU,transmission control unit 
+T,TD-SCDMA,Time division-synchronous code division multiple access
+T,TDC A/S,Tele Denmark Communications
+T,TDD,Tone Dialing for the Deaf
+T,TDDM,target distributed data manager
+T,TDES,X
+T,TDK,Tokyo Denki Kagaku
+T,TDL,time differential linking
+T,TDM,time division multiplexing
+T,TDR,Time Domain Reflectometry
+T,TE,Traffic Engineering
+T,TEC," Tivoli Enterprise Console
+ Thermoelectric Cooler"
+T,TED," Technology Entertainment and Design
+ Tiered Electronic Distribution
+ Torrent Episode Downloader
+ Tunnel Endpoint Discovery"
+T,TEHO,tail end hop off
+T,TEI,Total Economic Impact
+T,TEM,telephone expense management
+T,TERM,technology-enabled relationship management
+T,TESS,"Transaction Events 
+          and Statistics Server"
+T,TETRA,Terrestrial Trunked Radio
+T,TFRC,TCP-Friendly Rate Control
+T,TFS," Team Foundation Server
+ Three Finger Salute"
+T,TFT,Thin Film Transistor
+T,TFTP,Trivial File Transfer Protocol
+T,TGT,ticket-granting ticket
+T,TI,Texas Instruments
+T,TIES,time independent escape sequence
+T,TIFF,Tag Image File Format
+T,TIP,"Telepresence  
+          Interoperability Protocol"
+T,TISPAN,Telecoms & Internet Converged Services & Protocols for Advanced Networks
+T,TKIP,Temporal Key Integrity Protocol
+T,TLB,translation lookaside buffer
+T,TLD,Top Level Domain
+T,TLI,Transport Layer Interface
+T,TLL,Task Library Language 
+T,TLM,Transportation Lifecycle Management
+T,TLP,Transactional Licensing Program
+T,TLS,Transport Layer Security
+T,TMHES,Trend Micro Hosted Email Security
+T,TMP file, temporary file
+T,TMRS,traffic measurement and recording systems
+T,TMS,"Threat Management System 
+transportation management system "
+T,TNC,Trusted Network Connect 
+T,TNEF,Transport Neutral Encapsulation Format
+T,TNS,Transaction Network Services 
+T,TOA,time of arrival
+T,TOD," Tool on Demand
+ time-of-day"
+T,TOE,TCP/IP Offload Engine
+T,TOSLink,Toshiba Link
+T,TP-MIC,Twisted-Pair Media Interface Connector
+T,TPF,Transaction Processing Facility
+T,TPM," Transactions Per Minute
+ Trusted Platform Module"
+T,TPMs,transaction processing monitors
+T,TPS," transactions per second
+ Transaction Process System "
+T,TPV,Third Party Vendor
+T,TR,Terminal Ready
+T,TRIP," Telephony Routing over Internet Protocol
+ Token Ring Interface Processor"
+T,TRM,Teradata Relationship Manager
+T,TRS,"Tip, Ring, Sleeve (cable)"
+T,TRUE,task-related user exit
+T,TS,Terminal Server / Services
+T,TS-CAL,Terminal ServicesâClient Access License
+T,TSF,Text Services Framework
+T,TSIG,Transaction Signature
+T,TSM," Tivoli Storage Manager
+ trusted service manager "
+T,TSN,The Sierra Network 
+T,TSO,Time Sharing Option
+T,TSOP,Thin Small Outline Package
+T,TSR,Terminate and Stay Resident
+T,TSRM,Tivoli Service Request Manager
+T,TSV,Tab Separated Value (file)
+T,TTL,Transistor Transistor Logic 
+T,TTP,trusted third party
+T,TTS,Text-To-Speech
+T,TTY,TeleTypewriter
+T,TUCOWS,The Ultimate Collection of Winsock Software
+T,TUP,Telephone User Part
+T,TUR,trunk utilization report 
+T,TVO,total value of opportunity
+T,TVT,ThinkVantage Technology
+T,TWA,transaction work area
+T,TWAIN,technology without an interesting name
+T,TWX,Teletypewriter Exchange Service
+T,TX,Transmit / Transmission
+T,TXT,Trusted eXecution Technology
+T,TXT record, Text record
+T,Tb,terabit 
+T,Tbps,terabits per second
+T,Telco,telephone company
+T,Telnet,telephone network protocol
+T,TiB,tebibyte 
+T,ToS, Type Of Service
+T,Transceiver ,Transmitter/Receiver
+T,Triple DES,X
+T,t-commerce,television commerce
+T,tar,Tape ARchive
+T,tcl,Tool Command Language 
+T,telematics,telecommunications and informatics
+T,telephony,Telephone technology
+T,texel,Texture Element
+T,tracert,traceroute
+U,U2F,Undetectable and Untraceable Fraud
+U,UA,Upgrade Advantage
+U,UAC,User Account Control
+U,UART,universal asynchronous receiver-transmitter
+U,UAT,User Acceptance Test
+U,UBE,unsolicited bulk email
+U,UBR,Undefined Bit Rate
+U,UC,Unified communications
+U,UC&C (or UCC),Unified Communications & Collaboration
+U,UC2,Unified Communications and Collaboration
+U,UCB,unit control block
+U,UCC,Uniform Code Council
+U,UCCW,Ultimate custom widget
+U,UCD," Unicode Character Database
+ Uplink Channel Descriptor
+ User-centered design"
+U,UCE,Unsolicited Commercial Email
+U,UCM," Unified Change Management
+ Unified Computing System
+ Universal Content Management
+ Universal Customer Master
+ Use Case Maps"
+U,UCP,Ubuntu Certified Professional
+U,UCS,Universal Character Set
+U,UDDI,"Universal Description, Discovery and Integration"
+U,UDF,Universal Disk Format
+U,UDLP,UniDirectional Link Protocol
+U,UDMA,Ultra DMA (Ultra Direct Memory Access)
+U,UDO,Ultra Density Optical
+U,UDP,User Datagram Protocol
+U,UDRP,Uniform Dispute Resolution policy 
+U,UFS, Unix File System
+U,UGC, User generated content
+U,UGS,Unsolicited Grant Service 
+U,UHF,Ultra High Frequency
+U,UHV,Ultra High Voltage
+U,UI,user interface
+U,UIA,Unified Information Access
+U,UL,Underwriters Laboratories Inc.
+U,ULH,ultra-long-haul 
+U,ULV,Ultra Low Voltage
+U,UM,Unified messaging
+U,UMA," Unified-Memory Architecture
+ Unlicensed Mobile Access
+ Upper Memory Area
+ User Mode Audio"
+U,UMB," Ultra Mobile Broadband
+ upper memory block "
+U,UMC,ultra modular computing 
+U,UMID, Unique Material IDentifier
+U,UML,Unified Modeling Language
+U,UMS,Unfied Messaging Systems 
+U,UMTS,Universal Mobile Telecommunication System
+U,UNC,Uniform / Universal Naming Convention
+U,UNI,User-to-Network Interface
+U,UNR,Ubuntu Netbook Remix
+U,UOL,Universo Online
+U,UOW,unit of work
+U,UPA,user printable area
+U,UPC,Universal Product Code
+U,UPS,Uninterruptible Power Supply
+U,UPT,Universal Personal Telecommunications 
+U,UPnP,Universal Plug and Play
+U,URC,Utility Ready Computing
+U,URI,Uniform Resource Identifier
+U,URL,Uniform Resource Locator
+U,URN,Uniform Resource Name
+U,URT," universal receiver transmitter
+ User Registration Tool"
+U,USB," Universal Serial Bus
+ Upper Side Band"
+U,USENET,USEr's NETwork
+U,USF,Universal Service Fund
+U,USG,UNIX Systems Group
+U,USHER,United States Higher Education Root Certificate Authority
+U,USL,UNIX System Laboratories
+U,USM," Unifed Service Model
+ Unsharp masking"
+U,USMT,User State Migration Tool
+U,USO,universal service obligation
+U,USP," Universal Storage Platform
+ usage sensitive pricing"
+U,USRT,Universal Synchronous Receiver Transmitter
+U,USS,unformatted system service
+U,UT,Upper Tester
+U,UTF-8,Unicode Transformation Format 8
+U,UTM," Unified Threat Management
+ Universal Transverse Mercator"
+U,UTP, unshielded twisted pair 
+U,UTSL,Use The Source Luke
+U,UUCP,Unix to Unix Copy
+U,UUEE,Unix-to-Unix Encode 
+U,UUENCODE,Unix to Unix Encoding
+U,UUG,Unix User Group
+U,UUID,Universally Unique Identifier
+U,UUNET,UNIX to UNIX Network
+U,UUT,Unit Under Test
+U,UV,UltraViolet light
+U,UWB,Ultra-Wide-Band 
+U,UWIN, Unix for WINdows
+U,UXP,user experience
+U,Unicode,UNIversal CODE
+U,uDAPL,User Direct Access Programming Library
+U,uRPF,Unicast Reverse Path Forwarding
+U,uauth,user authentication
+U,usr,Unix System Resources
+V,V H,Vertical and horizontal grid points
+V,V.35, 
+V,V2P,Virtual to physical
+V,VA,virtual assistant
+V,VAD," Value-Added Distributor
+ Voice Activity Detection"
+V,VADP, vStorage APIs for Data Protection
+V,VAIO, Video Audio Integrated Operation
+V,VAN,Value-Added Network
+V,VAR,value-added reseller
+V,VAROS,VAriable Refraction Optical System
+V,VATH,"Visual, Auditory, Tactile, Haptic"
+V,VAX,Virtual Address Extension
+V,VB,Visual Basic
+V,VBA,"Virtual backup appliance Visual Basic  for Applications
+"
+V,VBR," variable bit rate
+ Very Busy Run"
+V,VBUG,Voice Browser Usability Group
+V,VBX,Visual Basic Custom Control
+V,VC," Videoconference
+ Virtual Channel
+ virtual circuit "
+V,VCB,VMware Consolidated Backup
+V,VCC,Voice Call Continuity
+V,VCD,Video Compact Disc
+V,VCDX,VMware Certified Design Expert 
+V,VCI,Virtual Channel Identifier
+V,VCM,Virtual Channel Memory
+V,VCO,voltage-controlled oscillator
+V,VCP," Value Chain Planning
+ VMware Certified Professional"
+V,VCR,video cassette recorder
+V,VD,Virtual Disk
+V,VDD,X
+V,VDI,Virtual desktop infrastructure
+V,VDR,virtual deal room
+V,VDS," Variable Drop Size
+ visual data stream "
+V,VDSL,very high-speed digital subscriber line
+V,VDT,Video Display Terminal
+V,VDU,Visual Display Unit
+V,VEP,vertical enterprise portal
+V,VESA,Video Electronics Standards Association
+V,VF,Voice Frequency
+V,VFM,virtual file manager
+V,VGA,Video Graphics Array
+V,VGF,voice grade facility 
+V,VHD,Virtual Hard Drive
+V,VHDL,VLSI Hardware Description Language
+V,VHDTS,Very High Density Thumb Screw
+V,VHF,very high frequency
+V,VHLL,Very-High-Level Language
+V,VHM,Voice Health Monitor
+V,VHS,video home system
+V,VIC,Voice Interface Card
+V,VIM,Vendor Independent Messaging
+V,VIO,virtual input/output
+V,VIP,VeriSign Identity Protection
+V,VITAL,"VHDL Initiative for the Standardization of ASIC 
+          Libraries"
+V,VIVO,Video In Vide o Out
+V,VLA,Volume License Agreement
+V,VLAN,virtual local-area network
+V,VLC,VideoLan Client
+V,VLDB,very large database 
+V,VLE,Virtual Learning Environment 
+V,VLF," Very Low Frequency
+ Virtual Log File"
+V,VLIW,Very Long Instruction Word
+V,VLK,Volume License Key
+V,VLL,Virtual Leased Line 
+V,VLR,Visitor Location Register
+V,VLS,Virtual Library Systems
+V,VLSI,Very Large Scale of Integration
+V,VLSM,Variable Length Subnet Masking
+V,VM,virtual machine
+V,VMDQ,Virtual Machine Device Queues 
+V,VMEbus,VersaModule Eurocard bus
+V,VMI,vendor-managed inventory 
+V,VML,Vector Markup Language
+V,VMM,virtual machine monitor
+V,VMS," Virtual Memory System
+ Vocabulary Management Solution
+ Voice Message Service"
+V,VNC,Virtual Network Computing
+V,VNL,via net loss
+V,VNO,virtual network                     operator
+V,VOM,Volt-Ohm-Milliammeter
+V,VOP,Velocity of Propagation
+V,VOX,Voice Operated eXchange
+V,VPA," valid printable area
+ Volume Procurement Amendment "
+V,VPD,Vital Product Data
+V,VPDN,Virtual Private Dial-up Network
+V,VPI,Virtual Path Indentifier
+V,VPLS,virtual private LAN service
+V,VPN,Virtual Private Network
+V,VPS," Vectors Per Second
+ Virtual private server"
+V,VQF, Vector Quantization Format
+V,VR,Virtual reality
+V,VRC,Vertical Redundancy Check
+V,VRF,VPN routing/forwarding instance
+V,VRM,voltage regulator module
+V,VRML, Virtual Reality Modeling Language
+V,VRRP,Virtual Router Redundancy Protocol
+V,VRS,Virtual Reference Station
+V,VRT,Variable-Rate Technology
+V,VRU,voice response unit 
+V,VSAM," Virtual Sequential Access Method
+  Virtual Storage Access Method"
+V,VSAT,very small aperture terminal
+V,VSB," very severe burst 
+ Vestigial sideband"
+V,VSD,ViSio Diagram
+V,VSE,Virtual Storage Extended
+V,VSELP,Vector Sum Excited Linear Predictive
+V,VSIP,Visual Studio Industry Partners
+V,VSM,"Value 
+          Stream Mapping"
+V,VSN,volume serial number
+V,VSNL,Videsh Sanchar Nigam Limited
+V,VSP,VoIP Service Provider
+V,VSR,Vertical Scan Rate
+V,VSS," vector symbol set 
+ Volume Shadow Copy"
+V,VSWR,Voltage Standing Wave Ratio
+V,VSwitch,Virtual Switch
+V,VTAM," Virtual Table Access Method
+ Virtual Telecommunications Access Method"
+V,VTL,virtual tape library
+V,VTOC,Volume Table of Contents
+V,VTP,Vlan Trunking Protocol
+V,VTS,virtual tape subsystem
+V,VTY,Virtual teleTYpewriter
+V,VUE,Visual User Environment
+V,VVM,Veritas Volume Manager
+V,VVR,Veritas Volume Replicator
+V,VWE,virtual work environment 
+V,VWIC,Voice/Wan Interface Card
+V,VWS,Virtual Web Server
+V,Vdeck,Video Deck
+V,Veronica,Very Easy Rodent Oriented Net-wide Index to Computerized Archives
+V,Vines,VIrtual NEtwork System
+V,VoD,Video On Demand
+V,VoIP,voice over Internet Protocol
+V,Vodcast,"video 
+          podcasting"
+V,Voken,virtual token
+V,VoxML,Voice Markup Language
+V,VxD,X
+V,v-mail,Video mail
+V,vBNS, very high-speed Backbone Network Service
+V,vortal,Vertical portal
+V,voxel,"Volume pixel, or volume picture element"
+W,W3C,World Wide Web Consortium
+W,WAA,Wide Area Adapter
+W,WAAS,Wide Area Augmentation System
+W,WAB,Windows Address Book
+W,WAC,"Wholesale 
+          Applications Community"
+W,WACK,X
+W,WADS,write-ahead data set 
+W,WAE,Wireless Application Environment
+W,WAF,Web application firewall
+W,WAI-ARIA,Web Accessibility Initiative - Accessible Rich Internet Applications
+W,WAIS,Wide Area Information Servers
+W,WAK,X
+W,WAL,wats access line 
+W,WALE,wats access line extension
+W,WAMP,"Windows, Apache, Mysql, PHP (or Perl or Phyton)"
+W,WAN,Wide-area Network
+W,WAP,Wireless Application Protocol
+W,WARIA,Workflow And Reengineering International Association
+W,WAS,Web Application Server
+W,WATS,Wide Area Telecommunications/Telephone Service
+W,WAVE,"Wide Area Virtualization 
+          Engine"
+W,WBEM,Web-Based Enterprise Management
+W,WBMP,Wireless BitMaP
+W,WCF, Windows Communication Foundation 
+W,WCS," Web customer 
+          service 
+ Websphere Commerce Server"
+W,WD,Western Digital
+W,WDDM,Windows Display Driver Model
+W,WDDX,Web Distributed Data Exchange 
+W,WDF,Windows Driver Foundation
+W,WDM,Wavelength Division Multiplexing
+W,WDOG,Watchdog protocol
+W,WDS,Wireless Distribution System 
+W,WDT,watchdog timer
+W,WEEE,Waste Electrical and Electronic Equipment
+W,WEP,Wired Equivalent Privacy
+W,WES,Websense Email Security
+W,WFM,Wired For Management Baseline
+W,WFO,workforce optimization
+W,WFQ,weighted fair queuing
+W,WGA,Windows Genuine Advantage 
+W,WHISPER,Windows Highly Intelligent SPEech Recognition
+W,WHQL,Windows Hardware Quality Lab
+W,WIA,Windows Image Acquisition
+W,WIC,Wan Interface Card
+W,WIMPS,"windows, icons, menus, pointers, scroll bars"
+W,WINE,Wine Is Not an Emulator
+W,WINS,Windows Internet Name Service
+W,WIPO,World Intellectual Properties Organization
+W,WLAN,wireless LAN
+W,WLL,wireless local loop
+W,WMI,Windows Management Instrumentation
+W,WML,Wireless Markup Language
+W,WMOS,Warehouse Management for Open Systems
+W,WMP,Windows Media Player
+W,WMS,warehouse management system
+W,WOA,Web-oriented architecture
+W,WOL,Wake On LAN
+W,WORM,"write once, read many"
+W,WOS,Wireless Office Systems 
+W,WOSA,Windows Open Service Architecture
+W,WOW,"World of Warcraft
+World Organization of Webmasters "
+W,WOW!,(formerly) WideOpenWest
+W,WPA,Wi-Fi Protected Access
+W,WPAD,Web Proxy AutoDiscovery
+W,WPAR,Workload PARtition
+W,WPF,Windows Presentation Foundation
+W,WPLO,Warranty Parts/Labor/Onsite
+W,WPN, Worldwide Port Name
+W,WQUXGA,Wide Quad Ultra eXtended Graphics Array
+W,WRC,World Radiocommunication Conference
+W,WRED,Weighted Random Early Detection
+W,WRS,Wind River Systems
+W,WRT,Weighted Risk Trend
+W,WS-Secuirty, Web Services Security
+W,WSC,Windows Security Center 
+W,WSD,white space device
+W,WSE,Web Services Enhancements
+W,WSFC,Windows Server Failover Clustering
+W,WSJ,Wall Street Journal
+W,WSP," Web Standards Project
+ Wireless Session Protocol"
+W,WSS,Windows Sharepoint Services
+W,WTG,Wily Transaction Generator
+W,WTL,Windows Template Library
+W,WTLS,Wireless Transport Layer Security
+W,WTX,Workstation Technology eXtended
+W,WUS,Windows Update Services
+W,WVA,Wide Viewing Angle
+W,WWAN,wireless wide-area network
+W,WWN,World wide name
+W,WWNN,worldwide node name 
+W,WWPN,worldwide port name
+W,WWW,World Wide Web
+W,WYSIWYG ,what you see is what you get
+W,WZC,Wireless Zero Configuration
+W,WebCam,WEB CAMera
+W,WebDAV,Web-based Distributed Authoring and Versioning
+W,WfMC,WorkFlow Management Coalition
+W,Wi-Fi,Wireless Fidelity
+W,WiBro,Wireless Broadband
+W,WiMax,World Interoperability for Microwave Access
+W,WinFS,Windows Future Storage
+W,Winkey,Windows key
+W,Winsock,Windows sockets
+W,Wintel (slang),Windows and Intel 
+W,webinar,(web seminar)
+W,wiki,What I Know Is
+W,wpm,Words Per Minute
+X,X3D,Extensible 3D Graphics
+X,XACML,Extensible Access Control Markup Language
+X,XAF,eXpressApplication Framework
+X,XAMPP,Cross-platform/Apache/MySQL/PHP/Perl 
+X,XBL,XML Binding Language 
+X,XBMC,XBox Media Center
+X,XBRL,Extensible Business Reporting Language
+X,XCP,eXtended Copy Protection
+X,XDCC,Xabi DCC or eXtended DCC
+X,XDE,eXtended Development Experience
+X,XDM,X Display Manager
+X,XDO,extended data object
+X,XDR,eXternal Data Representation
+X,XE,Express Edition
+X,XFDL,Extensible Forms Description Language
+X,XFN,XHTML Friends Network
+X,XGA,Extended Graphics Array
+X,XHR,XmlHttpRequest
+X,XHTML,Extensible Hypertext Markup Language
+X,XID," exchange identification
+  exchange station ID"
+X,XIL,X Imaging Library
+X,XLF,Extensible Log Format
+X,XLL,Extensible Linking Language
+X,XLS,eXceL Spreadsheet
+X,XMCL,Extensible Media Commerce Language
+X,XMI,XML Metadata Interchange
+X,XML,Extensible Markup Language
+X,XMLC,eXtensible Markup Language Compiler
+X,XMLRPC,XML Remote Procedure Call
+X,XMP,eXtensible Metadata Platform
+X,XMPP,eXtensible Messaging and Presence Protocol 
+X,XMS," Extended Memory Specification 
+ Xirrus Management System"
+X,XNI,Xerces Native Interface
+X,XNRL,"Xml Namespace Related-resource 
+          Language"
+X,XNS,Xerox Network Systems 
+X,XO,crystal oscillator
+X,XOFF,Transmitter off
+X,XON,Transmitter on
+X,XOP,Xml-binary Optimized Packaging
+X,XOR,exclusive-OR gate
+X,XP," eXPerience
+ Extreme Programming"
+X,XPFE,Cross Platform Front End
+X,XPL,Carrier Private Line
+X,XPLINK,Extra Performance Linkage
+X,XPS,Xml Paper Specification
+X,XPath,XML Path Language
+X,XQL,XML Query Language
+X,XRC,extended remote copy 
+X,XRE,Xul Runtime Engine
+X,XRST,extended restart
+X,XSD,Xml Schema Definition
+X,XSL,extensible Stylesheet Language 
+X,XSLT,eXtensible Style Language Transformation
+X,XSS,Cross-Site Scripting
+X,XT," crosstalk
+ Extended Technology"
+X,XTI,UNIX Transport Layer Interface
+X,XTM,Extensible Threat Management
+X,XTP,Extreme transaction processing 
+X,XTPP,"extreme transaction 
+          processing platform"
+X,XTR," Efficient Compact Subgroup Trace Representation
+ Extreme Reality
+Â "
+X,XUL,eXtensible User-interface Language
+X,XVT,Extensible Virtual Toolkit
+X,XWB,eXtend WorkBench
+X,XWSS,Xml and WebServices Security
+X,XaaS, anything as a service
+X,XoIP,Anything Over IP
+X,XrML,Extensible Rights Markup Language
+X,x86,8086 processor
+X,xDSL,x digital subscriber line
+X,xPGK,xPEERience gatekeeper/proxy
+X,xVM,intersection (x) of virtualization and management
+X,xfr,transfer
+X,xmt,transmit
+Y,Y2K,Year 2000
+Y,YA-,Yet Another 
+Y,YAHU,Yet Another Header Utility
+Y,YAST,Yet Another Setup Tool
+Y,YB,Yottabyte
+Y,YES,Yahoo! Enterprise Solutions
+Y,YIM,Yahoo! Instant Messenger
+Y,YKYBHTLW,you know you've been hacking too long when
+Y,YMMV,our mileage may vary
+Y,YP,Yellow Pages
+Y,YPN,Yahoo Publishers Network
+Y,YUB, luminance (Y)  chroma (UV)
+Y,YYYY-MM-DD,Year Year Year Year - Month Month - Day Day
+Y,YiB,Yobibyte
+Y,yacc,yet another compiler compiler
+Z,ZAPP,Zero Assignment Parallel Processor
+Z,ZAW,Zero Administration Window
+Z,ZB,Zettabyte
+Z,ZBR,Zero Bug Release
+Z,ZBTSI, Zero Byte Time Slot Interchange
+Z,ZCAV,X
+Z,ZCS,zero code suppression 
+Z,ZCT,zero count table
+Z,ZDBop, Ziff-Davis Benchmark Operation
+Z,ZDL,Zero Delay Lockout
+Z,ZDN,X
+Z,ZDNet,X
+Z,ZDO,ZigBee Device Object
+Z,ZFS," Zettabyte File System
+ zSeries File System"
+Z,ZID,ZfhB Igjk Dgvkh
+Z,ZIF,Zero Insertion Force
+Z,ZIL,Zork Implementation Language
+Z,ZINK,Zero INK
+Z,ZIP,Zone Information Protocol
+Z,ZLE,zero-latency enterprise
+Z,ZMA,Zone Multicast Address
+Z,ZNA,Zero Network Administration
+Z,ZOPE,Z Object Publishing Environment
+Z,ZRTP,(Zimmerman ) Real-Time Transport Protocol 
+Z,ZTE,Zhong Xing Telecommunication Equipment
+Z,ZTLP,Zero Transmission Level Point
+Z,ZV port,X
+Z,ZVP,X
+Z,Zeroconf,zero configuration (IP networking)
+Z,zine, electronic magazine
+Z,zsh,Z shell
